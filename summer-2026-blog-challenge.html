@@ -1,0 +1,993 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>UiPath ブログ発信チャレンジ サマー2026</title>
+    <meta
+      name="description"
+      content="UiPathブログ発信チャレンジ サマー2026のエントリー管理ページ。カレンダーと記事一覧で公開を見える化します。"
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: "Segoe UI", "Meiryo", "Hiragino Sans", Arial, sans-serif;
+        --bg: #f3f5f9;
+        --surface: #ffffff;
+        --surface-alt: #f8fbff;
+        --border: #d9dce4;
+        --text: #172B4D;
+        --muted: #5b6b81;
+        --accent: #185fa5;
+        --accent-strong: #0c447c;
+        --success: #0f7a3c;
+        --warning: #ca6a05;
+        --danger: #c64040;
+        --radius: 18px;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        min-height: 100%;
+        background: linear-gradient(180deg, #eef4ff 0%, #f7f9fd 100%);
+        color: var(--text);
+      }
+
+      body {
+        padding: 0 16px 32px;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .page {
+        width: min(100%, 1240px);
+        margin: 0 auto;
+      }
+
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 20px;
+        padding: 24px 20px 20px;
+        margin-top: 20px;
+        background: rgba(255, 255, 255, 0.86);
+        border: 1px solid rgba(24, 95, 165, 0.12);
+        border-radius: var(--radius);
+        backdrop-filter: blur(10px);
+      }
+
+      .title-group {
+        display: grid;
+        gap: 10px;
+      }
+
+      .eyebrow {
+        font-size: 12px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--accent-strong);
+        font-weight: 700;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(32px, 4vw, 46px);
+        line-height: 1.05;
+      }
+
+      .subtitle {
+        margin: 0;
+        color: var(--muted);
+        font-size: 15px;
+        line-height: 1.75;
+        max-width: 720px;
+      }
+
+      .hero-meta {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        gap: 12px;
+      }
+
+      .hero-meta p {
+        margin: 0;
+        font-size: 13px;
+        color: var(--muted);
+      }
+
+      .hero-link {
+        margin-top: 12px;
+      }
+
+      .hero-link a {
+        color: var(--accent);
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .hero-link a:hover {
+        text-decoration: underline;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 9px 14px;
+        border-radius: 999px;
+        background: rgba(24, 95, 165, 0.08);
+        color: var(--accent-strong);
+        font-weight: 700;
+        font-size: 13px;
+      }
+
+      .stats {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(120px, 1fr));
+        gap: 14px;
+        margin-top: 20px;
+      }
+
+      .stat {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 16px 18px;
+      }
+
+      .stat-label {
+        margin: 0;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .stat-value {
+        margin: 10px 0 0;
+        font-size: 28px;
+        font-weight: 700;
+        color: var(--text);
+      }
+
+      .layout {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) 360px;
+        gap: 24px;
+        margin-top: 28px;
+      }
+
+      .card {
+        background: var(--surface);
+        border: 1px solid var(--border);
+        border-radius: 24px;
+        overflow: hidden;
+        box-shadow: 0 18px 48px rgba(16, 50, 89, 0.06);
+      }
+
+      .panel {
+        padding: 20px;
+      }
+
+      .panel-head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        margin-bottom: 18px;
+      }
+
+      .panel-head h2 {
+        margin: 0;
+        font-size: 19px;
+      }
+
+      .panel-head p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .toolbar {
+        display: grid;
+        gap: 12px;
+        margin-bottom: 18px;
+      }
+
+      .toolbar-row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 12px;
+      }
+
+      .toolbar label,
+      .field label {
+        display: block;
+        margin-bottom: 6px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .field,
+      .toolbar input,
+      .toolbar select,
+      .form-input,
+      .form-select {
+        width: 100%;
+        border: 1px solid #d7dbe3;
+        border-radius: 12px;
+        padding: 12px 14px;
+        font: inherit;
+        font-size: 14px;
+        color: var(--text);
+        background: #fff;
+      }
+
+      .toolbar input:focus,
+      .toolbar select:focus,
+      .form-input:focus,
+      .form-select:focus {
+        outline: none;
+        border-color: rgba(24, 95, 165, 0.45);
+        box-shadow: 0 0 0 4px rgba(24, 95, 165, 0.12);
+      }
+
+      .tabs {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(120px, 1fr));
+        gap: 10px;
+      }
+
+      .tab {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        border: 1px solid #d7dbe3;
+        border-radius: 12px;
+        padding: 12px 16px;
+        background: #fff;
+        font-weight: 700;
+        color: #42526e;
+        cursor: pointer;
+      }
+
+      .tab.on {
+        background: var(--accent);
+        border-color: rgba(24, 95, 165, 0.35);
+        color: #fff;
+      }
+
+      .calendar {
+        display: grid;
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      .dow {
+        text-align: center;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .cell {
+        min-height: 96px;
+        border: 1px solid transparent;
+        border-radius: 18px;
+        padding: 12px;
+        background: var(--surface-alt);
+        cursor: pointer;
+        transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+      }
+
+      .cell:hover {
+        border-color: rgba(24, 95, 165, 0.24);
+        transform: translateY(-1px);
+      }
+
+      .cell.empty {
+        background: transparent;
+        border-color: transparent;
+        cursor: default;
+      }
+
+      .cell.filled {
+        background: #e9f2ff;
+        border-color: rgba(24, 95, 165, 0.24);
+      }
+
+      .cell.devcon {
+        background: #fff3e6;
+        border-color: rgba(250, 95, 22, 0.3);
+      }
+
+      .cell.devcon:hover {
+        border-color: rgba(250, 95, 22, 0.45);
+      }
+
+      .cell .dnum {
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--accent-strong);
+      }
+
+      .event-pill {
+        display: inline-flex;
+        align-items: center;
+        border-radius: 999px;
+        padding: 4px 10px;
+        margin-top: 8px;
+        background: #ffe5d0;
+        color: #ad3d10;
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .cell .chips {
+        display: grid;
+        gap: 6px;
+        margin-top: 10px;
+      }
+
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 24px;
+        border-radius: 999px;
+        padding: 0 10px;
+        background: rgba(24, 95, 165, 0.12);
+        color: var(--accent-strong);
+        font-size: 11px;
+        font-weight: 700;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .more {
+        margin-top: 6px;
+        font-size: 12px;
+        color: var(--accent-strong);
+      }
+
+      .calendar-action {
+        margin-top: 18px;
+      }
+
+      .button,
+      .sbm {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+        border: none;
+        border-radius: 999px;
+        padding: 12px 18px;
+        background: var(--accent);
+        color: #fff;
+        font-weight: 700;
+        cursor: pointer;
+      }
+
+      .button.light {
+        background: #fff;
+        color: var(--accent-strong);
+        border: 1px solid #d7dbe3;
+      }
+
+      .button.light:hover,
+      .button:hover,
+      .sbm:hover {
+        opacity: 0.95;
+      }
+
+      .list-panel {
+        display: flex;
+        flex-direction: column;
+        gap: 14px;
+      }
+
+      .filter-row {
+        display: grid;
+        grid-template-columns: 1fr 160px;
+        gap: 12px;
+      }
+
+      .article-card {
+        border: 1px solid #e2e7ef;
+        border-radius: 18px;
+        padding: 18px;
+        background: #ffffff;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      .article-card:hover {
+        transform: translateY(-1px);
+        box-shadow: 0 14px 32px rgba(16, 50, 89, 0.08);
+      }
+
+      .article-meta {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+      }
+
+      .article-day {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        background: rgba(24, 95, 165, 0.08);
+        color: var(--accent-strong);
+        font-size: 12px;
+        font-weight: 700;
+      }
+
+      .article-author {
+        font-size: 13px;
+        color: var(--muted);
+      }
+
+      .article-title {
+        margin: 0;
+        font-size: 17px;
+        line-height: 1.4;
+        font-weight: 700;
+      }
+
+      .article-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        margin-top: 12px;
+        color: var(--accent);
+        font-size: 13px;
+      }
+
+      .article-status {
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .rank-list {
+        display: grid;
+        gap: 12px;
+      }
+
+      .rank-item {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 12px;
+        align-items: center;
+        padding: 12px 0;
+        border-bottom: 1px solid #eef2f7;
+      }
+
+      .rank-item:last-child {
+        border-bottom: none;
+      }
+
+      .rank-position {
+        width: 28px;
+        font-weight: 700;
+        color: var(--accent-strong);
+      }
+
+      .rank-author {
+        font-size: 14px;
+        color: var(--text);
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+
+      .rank-count {
+        font-size: 13px;
+        color: var(--muted);
+        text-align: right;
+      }
+
+      .rank-empty {
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .modal-overlay {
+        position: fixed;
+        inset: 0;
+        background: rgba(15, 23, 45, 0.48);
+        display: none;
+        align-items: center;
+        justify-content: center;
+        padding: 18px;
+        z-index: 30;
+      }
+
+      .modal-overlay.on {
+        display: flex;
+      }
+
+      .modal {
+        width: min(520px, 100%);
+        background: #fff;
+        border-radius: 24px;
+        padding: 24px;
+        box-shadow: 0 28px 70px rgba(15, 23, 45, 0.16);
+      }
+
+      .modal h2 {
+        margin: 0 0 18px;
+        font-size: 22px;
+      }
+
+      .modal .field {
+        display: grid;
+        gap: 8px;
+        margin-bottom: 16px;
+      }
+
+      .modal .field input,
+      .modal .field select {
+        width: 100%;
+      }
+
+      .actions {
+        display: flex;
+        justify-content: flex-end;
+        gap: 12px;
+        flex-wrap: wrap;
+      }
+
+      .empty-state {
+        padding: 24px;
+        text-align: center;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      @media (max-width: 980px) {
+        .layout {
+          grid-template-columns: 1fr;
+        }
+
+        .hero,
+        .panel,
+        .card {
+          border-radius: 20px;
+        }
+      }
+
+      @media (max-width: 700px) {
+        .hero {
+          grid-template-columns: 1fr;
+        }
+
+        .toolbar-row,
+        .filter-row {
+          grid-template-columns: 1fr;
+        }
+
+        .calendar {
+          grid-template-columns: repeat(7, minmax(0, 1fr));
+        }
+
+        .cell {
+          min-height: 90px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="page">
+      <section class="hero">
+        <div class="title-group">
+          <p class="eyebrow">UiPathブログ 書いて夏を盛り上がろう！</p>
+          <h1>UiPath ブログ発信チャレンジサマー 2026</h1>
+          <p class="subtitle">
+            参加者と記事の公開状況を確認できるカレンダーです。
+            参加したい日に予定を入れていただき、ブログ公開したらURLを更新してください。
+          </p>
+          <div class="hero-link">
+            <a id="guideBlogLink" href="#" target="_blank">説明ブログ（URLはあとで設定）</a>
+          </div>
+        </div>
+        <div class="hero-meta">
+          <span class="badge">7月1日〜31日</span>
+          <p>ブログを公開したら、X(Twitter) #UiPathブログ をつけて投稿してください！</p>
+        </div>
+      </section>
+
+      <div class="stats">
+        <article class="stat">
+          <p class="stat-label">エントリー数</p>
+          <p class="stat-value" id="statTotal">0</p>
+        </article>
+        <article class="stat">
+          <p class="stat-label">参加者数</p>
+          <p class="stat-value" id="statAuthors">0</p>
+        </article>
+        <article class="stat">
+          <p class="stat-label">記事公開済み</p>
+          <p class="stat-value" id="statPublished">0</p>
+        </article>
+      </div>
+
+      <div class="layout">
+        <section class="card">
+          <div class="panel">
+            <div class="panel-head">
+              <div>
+                <h2>2026年7月カレンダー</h2>
+                <p class="subtle">日にちをタップしてその日のエントリーを確認・追加します。</p>
+              </div>
+              <button class="button" type="button" onclick="openForm(null)">エントリーを登録</button>
+            </div>
+
+            <div class="tabs">
+              <button class="tab on" type="button" onclick="switchTab('cal')">カレンダー</button>
+              <button class="tab" type="button" onclick="switchTab('list')">記事一覧</button>
+            </div>
+
+            <div id="pane-cal" class="pane on">
+              <div class="calendar" id="calendarGrid"></div>
+              <div class="calendar-action">
+                <button class="button" type="button" onclick="openForm(null)">+</button>
+              </div>
+            </div>
+
+            <div id="pane-list" class="pane" style="display:none;">
+              <div class="list-panel">
+                <div class="filter-row">
+                  <div>
+                    <label for="searchInput">検索</label>
+                    <input id="searchInput" type="text" placeholder="アカウント名・タイトルで検索" oninput="renderList()" />
+                  </div>
+                  <div>
+                    <label for="dayFilter">日付フィルタ</label>
+                    <select id="dayFilter" onchange="renderList()">
+                      <option value="">全日程</option>
+                    </select>
+                  </div>
+                </div>
+                <div id="articleList"></div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <aside class="card">
+          <div class="panel">
+            <div class="panel-head">
+              <div>
+                <h2>投稿数ランキング</h2>
+                <p class="subtle">エントリー数の多いアカウント順に表示します。</p>
+              </div>
+            </div>
+            <div id="rankList" class="rank-list">
+              <div class="rank-empty">まだエントリーがありません。</div>
+            </div>
+          </div>
+          <div class="panel" style="margin-top: 18px;">
+            <div class="panel-head">
+              <div>
+                <h2>メモ</h2>
+                <p class="subtle">UiPathに関連のある内容のブログでお願いいたします。</p>
+              </div>
+            </div>
+            <div class="panel" style="background: var(--surface-alt); border: 1px dashed var(--border);">
+              <p style="margin:0;font-size:14px;line-height:1.7;color:var(--muted);">
+                ・公開済み記事はリンクを追加してください。
+              </p>
+              <p style="margin:14px 0 0;font-size:14px;line-height:1.7;color:var(--muted);">
+                ・早めに登録しておくことをおススメします。
+              </p>
+            </div>
+          </div>
+        </aside>
+      </div>
+    </div>
+
+    <div id="modalOverlay" class="modal-overlay" aria-hidden="true">
+      <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <h2 id="modalTitle">エントリーを登録</h2>
+        <div class="field">
+          <label for="entryDay">投稿日</label>
+          <select id="entryDay" class="form-select"></select>
+        </div>
+        <div class="field">
+          <label for="entryAuthor">Xアカウント名</label>
+          <input id="entryAuthor" class="form-input" type="text" placeholder="@ShumpeiWatanabe" />
+        </div>
+        <div class="field">
+          <label for="entryTitle">記事タイトル</label>
+          <input id="entryTitle" class="form-input" type="text" placeholder="例: Agent Builder を使ってみた" />
+        </div>
+        <div class="field">
+          <label for="entryUrl">記事URL</label>
+          <input id="entryUrl" class="form-input" type="url" placeholder="https://" />
+        </div>
+        <div class="actions">
+          <button class="button light" type="button" onclick="closeForm()">キャンセル</button>
+          <button class="button" type="button" onclick="submitEntry()">保存する</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const STORAGE_KEY = 'uipath_summer_2026';
+      let data = {};
+      let editDay = null;
+      let editIndex = null;
+
+      const dayNames = ['日','月','火','水','木','金','土'];
+
+      document.addEventListener('DOMContentLoaded', () => {
+        initDayFilter();
+        initDaySelect();
+        loadData();
+        renderCalendar();
+        renderList();
+      });
+
+      function loadData() {
+        try {
+          const raw = localStorage.getItem(STORAGE_KEY);
+          data = raw ? JSON.parse(raw) : {};
+        } catch (error) {
+          data = {};
+        }
+      }
+
+      function saveData() {
+        try {
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+        } catch (error) {
+          console.warn('保存に失敗しました', error);
+        }
+      }
+
+      function initDayFilter() {
+        const filter = document.getElementById('dayFilter');
+        filter.innerHTML = '<option value="">全日程</option>' +
+          Array.from({ length: 31 }, (_, i) => `<option value="${i + 1}">7月${i + 1}日</option>`).join('');
+      }
+
+      function initDaySelect(selected = null) {
+        const select = document.getElementById('entryDay');
+        select.innerHTML = Array.from({ length: 31 }, (_, i) => {
+          const day = i + 1;
+          return `<option value="${day}"${day === selected ? ' selected' : ''}>7月${day}日</option>`;
+        }).join('');
+      }
+
+      function renderCalendar() {
+        const grid = document.getElementById('calendarGrid');
+        grid.innerHTML = dayNames.map(name => `<div class="dow">${name}</div>`).join('');
+        for (let i = 0; i < 3; i++) {
+          grid.innerHTML += '<div class="cell empty"></div>';
+        }
+
+        for (let day = 1; day <= 31; day++) {
+          const list = data[day] || [];
+          const chips = list.slice(0, 2).map(entry => `<div class="chip">${escapeHtml(entry.author)}</div>`).join('');
+          const more = list.length > 2 ? `<div class="more">+${list.length - 2}</div>` : '';
+          const filledClass = list.length ? ' filled' : '';
+          const devconClass = day === 29 ? ' devcon' : '';
+          const eventTag = day === 29 ? '<div class="event-pill"><strong>DevCon Tokyo</strong></div>' : '';
+          grid.innerHTML += `
+            <button class="cell${filledClass}${devconClass}" type="button" onclick="openDay(${day})">
+              <div>
+                <div class="dnum">${day}</div>
+                ${eventTag}
+              </div>
+              <div class="chips">${chips}${more}</div>
+            </button>
+          `;
+        }
+
+        updateStats();
+      }
+
+      function updateStats() {
+        const total = Object.values(data).reduce((sum, list) => sum + list.length, 0);
+        const authors = new Set();
+        let published = 0;
+
+        Object.values(data).forEach(list => list.forEach(entry => {
+          if (entry.author) {
+            authors.add(entry.author.trim());
+          }
+          if (entry.url) published += 1;
+        }));
+
+        document.getElementById('statTotal').textContent = total;
+        document.getElementById('statAuthors').textContent = authors.size;
+        document.getElementById('statPublished').textContent = published;
+        renderRankings();
+      }
+
+      function renderRankings() {
+        const counts = {};
+        Object.values(data).forEach(list => list.forEach(entry => {
+          const author = entry.author ? entry.author.trim() : '';
+          if (!author) return;
+          counts[author] = (counts[author] || 0) + 1;
+        }));
+
+        const rankList = document.getElementById('rankList');
+        const rows = Object.entries(counts)
+          .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+          .slice(0, 5);
+
+        if (!rows.length) {
+          rankList.innerHTML = '<div class="rank-empty">まだエントリーがありません。</div>';
+          return;
+        }
+
+        rankList.innerHTML = rows.map(([author, count], index) => `
+          <div class="rank-item">
+            <div class="rank-position">${index + 1}</div>
+            <div class="rank-author">${escapeHtml(author)}</div>
+            <div class="rank-count">${count} 件</div>
+          </div>
+        `).join('');
+      }
+
+      function switchTab(tab) {
+        document.querySelectorAll('.tab').forEach(button => {
+          button.classList.toggle('on', button.textContent === (tab === 'cal' ? 'カレンダー' : '記事一覧'));
+        });
+        document.getElementById('pane-cal').style.display = tab === 'cal' ? 'block' : 'none';
+        document.getElementById('pane-list').style.display = tab === 'list' ? 'block' : 'none';
+        if (tab === 'list') renderList();
+      }
+
+      function renderList() {
+        const query = document.getElementById('searchInput').value.trim().toLowerCase();
+        const filterDay = document.getElementById('dayFilter').value;
+        const entries = [];
+
+        Object.entries(data).forEach(([day, list]) => {
+          list.forEach((entry, index) => {
+            entries.push({ day: Number(day), index, ...entry });
+          });
+        });
+
+        entries.sort((a, b) => a.day - b.day || a.author.localeCompare(b.author));
+
+        const filtered = entries.filter(entry => {
+          const matchesQuery = !query || entry.author.toLowerCase().includes(query) || (entry.title || '').toLowerCase().includes(query);
+          const matchesDay = !filterDay || entry.day === Number(filterDay);
+          return matchesQuery && matchesDay;
+        });
+
+        const container = document.getElementById('articleList');
+        if (!filtered.length) {
+          container.innerHTML = '<div class="empty-state">検索条件に一致するエントリーはありません。</div>';
+          return;
+        }
+
+        container.innerHTML = filtered.map(entry => `
+          <article class="article-card">
+            <div class="article-meta">
+              <span class="article-day">7月${entry.day}日</span>
+              <span class="article-author">${escapeHtml(entry.author)}</span>
+            </div>
+            <p class="article-title">${escapeHtml(entry.title || '（タイトル未定）')}</p>
+            ${entry.url ? `<a class="article-link" href="${escapeHtml(entry.url)}" target="_blank" rel="noopener">記事を読む</a>` : '<p class="article-status">公開待ち・URL未登録</p>'}
+            <div class="actions" style="margin-top:16px;justify-content:flex-start;">
+              <button class="button light" type="button" onclick="openEntry(${entry.day}, ${entry.index})">編集</button>
+              <button class="button light" type="button" style="color: var(--danger);border-color: rgba(198, 64, 64, 0.18);" onclick="deleteEntry(${entry.day}, ${entry.index})">削除</button>
+            </div>
+          </article>
+        `).join('');
+      }
+
+      function openForm(day) {
+        editDay = null;
+        editIndex = null;
+        initDaySelect(day);
+        document.getElementById('modalTitle').textContent = 'エントリーを登録';
+        document.getElementById('entryAuthor').value = '';
+        document.getElementById('entryTitle').value = '';
+        document.getElementById('entryUrl').value = '';
+        document.getElementById('modalOverlay').classList.add('on');
+      }
+
+      function openEntry(day, index) {
+        editDay = day;
+        editIndex = index;
+        const entry = data[day][index];
+        initDaySelect(day);
+        document.getElementById('modalTitle').textContent = 'エントリーを編集';
+        document.getElementById('entryAuthor').value = entry.author;
+        document.getElementById('entryTitle').value = entry.title || '';
+        document.getElementById('entryUrl').value = entry.url || '';
+        document.getElementById('modalOverlay').classList.add('on');
+      }
+
+      function closeForm() {
+        document.getElementById('modalOverlay').classList.remove('on');
+        editDay = null;
+        editIndex = null;
+      }
+
+      function submitEntry() {
+        const day = Number(document.getElementById('entryDay').value);
+        const author = document.getElementById('entryAuthor').value.trim();
+        const title = document.getElementById('entryTitle').value.trim() || '（タイトル未定）';
+        const url = document.getElementById('entryUrl').value.trim();
+
+        if (!author) {
+          alert('Xアカウント名を入力してください。');
+          return;
+        }
+
+        if (!data[day]) {
+          data[day] = [];
+        }
+
+        const entry = { author, title, url };
+
+        if (editDay !== null && editIndex !== null) {
+          data[editDay][editIndex] = entry;
+          if (!data[editDay].length) {
+            delete data[editDay];
+          }
+        } else {
+          data[day].push(entry);
+        }
+
+        saveData();
+        renderCalendar();
+        renderList();
+        closeForm();
+      }
+
+      function deleteEntry(day, index) {
+        if (!confirm('このエントリーを削除しますか？')) return;
+        data[day].splice(index, 1);
+        if (!data[day].length) {
+          delete data[day];
+        }
+        saveData();
+        renderCalendar();
+        renderList();
+      }
+
+      function openDay(day) {
+        openForm(day);
+      }
+
+      function escapeHtml(text) {
+        return String(text)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      document.addEventListener('keydown', event => {
+        if (event.key === 'Escape') {
+          closeForm();
+        }
+      });
+    </script>
+  </body>
+</html>
