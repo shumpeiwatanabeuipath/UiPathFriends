@@ -1,0 +1,38 @@
+name: Update blog articles
+
+on:
+  schedule:
+    # 03:00 JST every day.
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-articles:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Update articles.json
+        run: node docs/scripts/update-articles.mjs
+
+      - name: Commit updated articles
+        run: |
+          if git diff --quiet -- docs/articles.json; then
+            echo "No article changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/articles.json
+          git commit -m "Update blog articles"
+          git push
