@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-05",
-  "searchWindow": "Qiita / note: 2025-12-05 - 2026-06-05; UiPath official: listed pages as of 2026-06-05",
+  "generatedAt": "2026-06-06",
+  "searchWindow": "Qiita / note: 2025-12-06 - 2026-06-06; UiPath official: listed pages as of 2026-06-06",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,45 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-76f32cf41d29b30e3397",
+      "title": "Power Automate DesktopでDataTableから指定列が空の行を削除する方法",
+      "author": "depo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/depo/items/76f32cf41d29b30e3397",
+      "publishedAt": "2026-06-06",
+      "tags": [
+        "UiPath",
+        "PowerAutomateDesktop"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。PowerAutomateDesktop"
+    },
+    {
+      "id": "qiita-e94d4196ca13ab42822e",
+      "title": "Power Automate Desktopで指定列の重複行を削除する",
+      "author": "depo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/depo/items/e94d4196ca13ab42822e",
+      "publishedAt": "2026-06-06",
+      "tags": [
+        "UiPath",
+        "PowerAutomateDesktop"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。PowerAutomateDesktop"
+    },
+    {
+      "id": "qiita-a4e86f1b9c0963530000",
+      "title": "Power Automate DesktopでDataTableの複数列を並び替える",
+      "author": "depo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/depo/items/a4e86f1b9c0963530000",
+      "publishedAt": "2026-06-06",
+      "tags": [
+        "UiPath",
+        "PowerAutomateDesktop"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。PowerAutomateDesktop"
+    },
     {
       "id": "qiita-0da912ecca736cc06e97",
       "title": "NetSuiteの手作業から、卒業する。 ── UiPath × NetSuite 接続と活用",
