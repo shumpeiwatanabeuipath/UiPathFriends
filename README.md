@@ -28,3 +28,10 @@ https://shumpeiwatanabeuipath.github.io/UiPathFriends/
 
 GitHub Actions が毎日 03:00 JST に `docs/articles.json` を更新します。
 手動で更新したい場合は、Actions の `Update blog articles` から `Run workflow` を実行してください。
+
+### Qiita の取得条件
+
+Qiita は次のいずれかに該当する記事だけを取得します。
+
+- タイトルに `UiPath` が含まれる
+- タグに `UiPath` が含まれる

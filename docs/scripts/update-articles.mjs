@@ -211,11 +211,19 @@ function extractLinks(html, base, predicate) {
 }
 
 async function collectQiita() {
-  const query = encodeURIComponent("UiPath");
-  const url = `https://qiita.com/api/v2/items?page=1&per_page=100&query=${query}`;
-  const items = await fetchJson(url);
+  const queries = ["title:UiPath", "tag:UiPath"];
+  const byId = new Map();
 
-  return items
+  for (const rawQuery of queries) {
+    const query = encodeURIComponent(rawQuery);
+    const url = `https://qiita.com/api/v2/items?page=1&per_page=100&query=${query}`;
+    const items = await fetchJson(url);
+    for (const item of items) {
+      byId.set(item.id, item);
+    }
+  }
+
+  return [...byId.values()]
     .map((item) => ({
       id: `qiita-${item.id}`,
       title: item.title,
@@ -229,7 +237,15 @@ async function collectQiita() {
         .slice(0, 3)
         .join(" / ")}`,
     }))
+    .filter(qiitaMatchesTitleOrTag)
     .filter(isWithinWindow);
+}
+
+function qiitaMatchesTitleOrTag(article) {
+  if (article.platform !== "Qiita") return true;
+  const titleMatches = /uipath/i.test(article.title || "");
+  const tagMatches = (article.tags || []).some((tag) => /^uipath$/i.test(tag));
+  return titleMatches || tagMatches;
 }
 
 async function collectNote() {
@@ -340,6 +356,7 @@ function mergeArticles(existing, fetched) {
   }
 
   return [...byUrl.values()]
+    .filter(qiitaMatchesTitleOrTag)
     .filter((article) => article.title && article.url && article.publishedAt)
     .sort(
       (a, b) =>
