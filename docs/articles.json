@@ -21,6 +21,19 @@
   ],
   "articles": [
     {
+      "title": "UiPath ブログ発信チャレンジサマー2026 - 書いて、試して、学び合うエージェントたちの夏！｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/nffb1ed713f11",
+      "publishedAt": "2026-06-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) 夏が近づくこの季節、ブログ発信チャレンジ サマー月間がやってきます。 2026年の上半期の学びや気づきをシェアし合い、また日ごろ筆が止まっている方も、夏休み前に記憶を残しておきたい方も、この7月は再開する",
+      "id": "note-note-com-shumpei-w-n-nffb1ed713f11-2026-06-08"
+    },
+    {
       "id": "qiita-0da912ecca736cc06e97",
       "title": "NetSuiteの手作業から、卒業する。 ── UiPath × NetSuite 接続と活用",
       "author": "itan_63",
