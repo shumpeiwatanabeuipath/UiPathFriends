@@ -200,6 +200,23 @@ function absoluteUrl(url, base) {
   }
 }
 
+function isUiPathOfficialArticleUrl(url) {
+  try {
+    const parsed = new URL(url);
+    if (parsed.hostname !== "www.uipath.com") return false;
+    const parts = parsed.pathname.split("/").filter(Boolean);
+    const isBlogArticle =
+      parts[0] === "ja" && parts[1] === "blog" && parts.length >= 4;
+    const isCommunityArticle =
+      parts[0] === "ja" &&
+      parts[1] === "community-blog" &&
+      parts.length >= 4;
+    return isBlogArticle || isCommunityArticle;
+  } catch {
+    return false;
+  }
+}
+
 function extractLinks(html, base, predicate) {
   const links = new Set();
   const pattern = /<a\b[^>]+href=["']([^"']+)["'][^>]*>/gi;
@@ -287,10 +304,7 @@ async function collectOfficial() {
   for (const source of OFFICIAL_SOURCES) {
     const html = await fetchText(source.url);
     const links = extractLinks(html, source.url, (url) => {
-      return (
-        url.startsWith("https://www.uipath.com/ja/blog/") ||
-        url.startsWith("https://www.uipath.com/ja/community-blog/")
-      );
+      return isUiPathOfficialArticleUrl(url);
     });
     links.forEach((link) => articleLinks.add(link));
   }
@@ -357,6 +371,11 @@ function mergeArticles(existing, fetched) {
 
   return [...byUrl.values()]
     .filter(qiitaMatchesTitleOrTag)
+    .filter(
+      (article) =>
+        article.platform !== "UiPath公式" ||
+        isUiPathOfficialArticleUrl(article.url),
+    )
     .filter((article) => article.title && article.url && article.publishedAt)
     .sort(
       (a, b) =>

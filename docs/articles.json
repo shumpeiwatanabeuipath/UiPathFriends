@@ -299,19 +299,6 @@
       "id": "note-note-com-yasuhitoo-n-nf22ee387d1b8-2026-05-13"
     },
     {
-      "title": "ブログ：UiPathとエージェンティックオートメーションの最新情報",
-      "author": "UiPath Inc.",
-      "platform": "UiPath公式",
-      "url": "https://www.uipath.com/ja/blog/",
-      "publishedAt": "2026-05-11",
-      "tags": [
-        "公式ブログ",
-        "UiPath"
-      ],
-      "summary": "UiPath製品やイベント情報、エージェンティックオートメーションのトレンド、またカンパニーカルチャーに関する最新情報をご紹介します。",
-      "id": "uipath-www-uipath-com-ja-blog-2026-05-11"
-    },
-    {
       "title": "【2026年版】UiPath面接対策 想定質問100選｜中途採用で聞かれる質問と模範回答を徹底解説｜Career Compass 転職ナビ",
       "author": "careercompass_c",
       "platform": "note",
@@ -323,19 +310,6 @@
       ],
       "summary": "UiPathジャパンの面接を前に、「外資系RPA・エンタープライズ自動化企業の面接って、どんな準備が必要なんだろう」と感じていませんか？ 「なぜ今のタイミングでRPA・エンタープライズ自動化の分野にキャリアチェンジしようとしているのかを、説得力を持って語れるか」「UiPathのビ",
       "id": "note-note-com-careercompass-c-n-ne4c6987420ec-2026-05-10"
-    },
-    {
-      "title": "RPA製品とアップデート｜UiPathブログ",
-      "author": "UiPath Inc.",
-      "platform": "UiPath公式",
-      "url": "https://www.uipath.com/ja/blog/product-and-updates",
-      "publishedAt": "2026-05-08",
-      "tags": [
-        "公式ブログ",
-        "UiPath"
-      ],
-      "summary": "UiPathブログでは、RPA製品の最新情報をご覧いただけます。新機能の詳細を確認し、自動化の取り組みを加速させましょう。",
-      "id": "uipath-www-uipath-com-ja-blog-product-and-updates-2026-05-08"
     },
     {
       "title": "2026年G2レポートから見えてくる、AIエージェント導入に関する最新動向｜Shinichi Komeda | 米田 真一 @ マーケティングの変革人",
@@ -815,19 +789,6 @@
       ],
       "summary": "みなさん、こんにちは。 UiPath の Koko です。 今回は、UiPath Community で Women in Automation 2026 ウェビナーシリーズに、パネリストとして、参加したことの学びをシェアさせてください。 Women in Automation ",
       "id": "note-note-com-kokoderosas-n-na13568af2459-2026-03-05"
-    },
-    {
-      "title": "自動化ブログ － 自動化のトレンド｜UiPathブログ",
-      "author": "UiPath Inc.",
-      "platform": "UiPath公式",
-      "url": "https://www.uipath.com/ja/blog/automation",
-      "publishedAt": "2026-03-05",
-      "tags": [
-        "公式ブログ",
-        "UiPath"
-      ],
-      "summary": "UiPathの自動化に関するブログでは、自動化の最新トレンドをすべて紹介し、自動化の未来に期待できることを紹介しています。",
-      "id": "uipath-www-uipath-com-ja-blog-automation-2026-03-05"
     },
     {
       "title": "UiPath Friends Festival 2026〜Hello Agentic World！みんなで語る、エージェンティックオートメーションの世界～",
@@ -1912,32 +1873,6 @@
       ],
       "summary": "ワークフロー動作をより安定化するために、どのように対処すればよいかわからないという問題に直面したRPAデベロッパーに実践的なテクニックを提供する資料です。ワークフロー動作不安定時の具体的な事象及びその解決方法について解説しています。",
       "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-workflow-stabilization-2023-04-10"
-    },
-    {
-      "title": "Results page 2 for コミュニティブログ",
-      "author": "UiPath Inc.",
-      "platform": "UiPath公式",
-      "url": "https://www.uipath.com/ja/community-blog/2",
-      "publishedAt": "2023-04-03",
-      "tags": [
-        "Community Blog",
-        "UiPath"
-      ],
-      "summary": "UiPathのデベロッパー向けの情報をお届けします。UiPath社内のデベロッパーによる開発やガバナンスのTIPSを是非お役立てください。",
-      "id": "uipath-www-uipath-com-ja-community-blog-2-2023-04-03"
-    },
-    {
-      "title": "Results page 8 for コミュニティブログ",
-      "author": "UiPath Inc.",
-      "platform": "UiPath公式",
-      "url": "https://www.uipath.com/ja/community-blog/8",
-      "publishedAt": "2018-05-17",
-      "tags": [
-        "Community Blog",
-        "UiPath"
-      ],
-      "summary": "UiPathのデベロッパー向けの情報をお届けします。UiPath社内のデベロッパーによる開発やガバナンスのTIPSを是非お役立てください。",
-      "id": "uipath-www-uipath-com-ja-community-blog-8-2018-05-17"
     }
   ]
 }

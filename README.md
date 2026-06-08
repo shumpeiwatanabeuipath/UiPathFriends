@@ -35,3 +35,12 @@ Qiita は次のいずれかに該当する記事だけを取得します。
 
 - タイトルに `UiPath` が含まれる
 - タグに `UiPath` が含まれる
+
+### UiPath公式 の取得条件
+
+UiPath公式タブには、次の2サイトの記事ページだけを取得します。
+
+- `https://www.uipath.com/ja/blog/`
+- `https://www.uipath.com/ja/community-blog`
+
+一覧ページやカテゴリページは除外します。
