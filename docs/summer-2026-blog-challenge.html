@@ -740,37 +740,70 @@
       </div>
     </div>
 
+    <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.0/firebase-database.js"></script>
     <script>
-      const STORAGE_KEY = 'uipath_summer_2026';
+      // Firebase config
+      const firebaseConfig = {
+        apiKey: "AIzaSyC_cX7uH3_a_e_oX8eAL9ksZoQi8XEkNm8",
+        authDomain: "uipath-blog-challenge.firebaseapp.com",
+        databaseURL: "https://uipath-blog-challenge-default-rtdb.asia-southeast1.firebasedatabase.app",
+        projectId: "uipath-blog-challenge",
+        storageBucket: "uipath-blog-challenge.firebasestorage.app",
+        messagingSenderId: "445434646805",
+        appId: "1:445434646805:web:22b91b981c64765bdf991c",
+        measurementId: "G-E9LLJETNT1"
+      };
+
+      // Firebase 初期化
+      firebase.initializeApp(firebaseConfig);
+      const db = firebase.database();
+      const entriesRef = db.ref('entries');
+
       let data = {};
       let editDay = null;
       let editIndex = null;
+      let isInitialized = false;
 
       const dayNames = ['日','月','火','水','木','金','土'];
 
       document.addEventListener('DOMContentLoaded', () => {
         initDayFilter();
         initDaySelect();
-        loadData();
-        renderCalendar();
-        renderList();
+        setupRealtimeListener();
       });
 
-      function loadData() {
-        try {
-          const raw = localStorage.getItem(STORAGE_KEY);
-          data = raw ? JSON.parse(raw) : {};
-        } catch (error) {
+      // Firebase からのリアルタイムリスナーを設定
+      function setupRealtimeListener() {
+        entriesRef.on('value', snapshot => {
+          const rawData = snapshot.val() || {};
           data = {};
-        }
+          
+          // Firebase のデータを整形（キーが数字の文字列なので、数字にする）
+          Object.keys(rawData).forEach(day => {
+            const dayNum = Number(day);
+            if (dayNum >= 1 && dayNum <= 31) {
+              data[dayNum] = rawData[day] || [];
+            }
+          });
+
+          // 初回ロード後、UI をレンダリング
+          if (!isInitialized) {
+            isInitialized = true;
+          }
+          renderCalendar();
+          renderList();
+        }, error => {
+          console.error('Firebase データ読み込みエラー:', error);
+        });
+      }
+
+      function loadData() {
+        // Firebase でリアルタイム同期しているため、ここでは何もしない
       }
 
       function saveData() {
-        try {
-          localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
-        } catch (error) {
-          console.warn('保存に失敗しました', error);
-        }
+        // Firebase に自動保存される
       }
 
       function initDayFilter() {
@@ -950,36 +983,36 @@
           return;
         }
 
-        if (!data[day]) {
-          data[day] = [];
-        }
-
         const entry = { author, title, url };
 
         if (editDay !== null && editIndex !== null) {
-          data[editDay][editIndex] = entry;
-          if (!data[editDay].length) {
-            delete data[editDay];
-          }
+          // 編集：既存エントリーを置き換え
+          const dayData = data[editDay] || [];
+          dayData[editIndex] = entry;
+          entriesRef.child(editDay).set(dayData);
         } else {
-          data[day].push(entry);
+          // 新規：エントリーを追加
+          const dayData = data[day] || [];
+          dayData.push(entry);
+          entriesRef.child(day).set(dayData);
         }
 
-        saveData();
-        renderCalendar();
-        renderList();
         closeForm();
       }
 
       function deleteEntry(day, index) {
         if (!confirm('このエントリーを削除しますか？')) return;
-        data[day].splice(index, 1);
-        if (!data[day].length) {
-          delete data[day];
+        
+        const dayData = (data[day] || []).slice();
+        dayData.splice(index, 1);
+        
+        if (dayData.length === 0) {
+          // 空になったら、その日のエントリーを削除
+          entriesRef.child(day).remove();
+        } else {
+          // 残りのエントリーを保存
+          entriesRef.child(day).set(dayData);
         }
-        saveData();
-        renderCalendar();
-        renderList();
       }
 
       function openDay(day) {
