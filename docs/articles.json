@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-14",
-  "searchWindow": "Qiita / note: 2025-12-14 - 2026-06-14; UiPath official: listed pages as of 2026-06-14",
+  "generatedAt": "2026-06-15",
+  "searchWindow": "Qiita / note: 2025-12-15 - 2026-06-15; UiPath official: listed pages as of 2026-06-15",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-a6380f818104ffbb80b6",
+      "title": "【UiPath】インフラ観点から見た Coding Agents の実力",
+      "author": "hidecha",
+      "platform": "Qiita",
+      "url": "https://qiita.com/hidecha/items/a6380f818104ffbb80b6",
+      "publishedAt": "2026-06-11",
+      "tags": [
+        "UiPath",
+        "codex",
+        "UiPathAutomationCloud",
+        "ClaudeCode"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / codex / UiPathAutomationCloud"
+    },
     {
       "title": "UiPath ブログ発信チャレンジサマー2026 - 書いて、試して、学び合うエージェントたちの夏！｜Shumpei Watanabe",
       "author": "shumpei_w",
