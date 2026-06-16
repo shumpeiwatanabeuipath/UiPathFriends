@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15",
-  "searchWindow": "Qiita / note: 2025-12-15 - 2026-06-15; UiPath official: listed pages as of 2026-06-15",
+  "generatedAt": "2026-06-16",
+  "searchWindow": "Qiita / note: 2025-12-16 - 2026-06-16; UiPath official: listed pages as of 2026-06-16",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,22 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-de7ae6e96186fe096982",
+      "title": "UiPath for Coding Agents＋Chrome DevTools MCPでワークフローを生成してみました",
+      "author": "Auiong",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Auiong/items/de7ae6e96186fe096982",
+      "publishedAt": "2026-06-12",
+      "tags": [
+        "UiPath",
+        "JavaScript",
+        "Chrome",
+        "uiautomation",
+        "ChromeDevTool"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。JavaScript / Chrome / uiautomation"
+    },
     {
       "id": "qiita-a6380f818104ffbb80b6",
       "title": "【UiPath】インフラ観点から見た Coding Agents の実力",
@@ -1810,6 +1826,19 @@
       ],
       "summary": "Cloud OCのAPIレート制限についてお知らせします。",
       "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-about-api-rate-limit-2024-05-22"
+    },
+    {
+      "title": "オートメーション プロフェッショナルの現状と未来を語り合おう 実態調査 2024年版",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/community-blog/community-news/automation-professional-research-2024",
+      "publishedAt": "2024-05-17",
+      "tags": [
+        "Community Blog",
+        "UiPath"
+      ],
+      "summary": "",
+      "id": "uipath-www-uipath-com-ja-community-blog-community-news-automation-professional-research-2024-05-17"
     },
     {
       "title": "VDI環境でのUiPath製品の展開方法",
