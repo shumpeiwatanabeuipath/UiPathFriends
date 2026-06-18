@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17",
-  "searchWindow": "Qiita / note: 2025-12-17 - 2026-06-17; UiPath official: listed pages as of 2026-06-17",
+  "generatedAt": "2026-06-18",
+  "searchWindow": "Qiita / note: 2025-12-18 - 2026-06-18; UiPath official: listed pages as of 2026-06-18",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-dc685ff75d847e0d3e24",
+      "title": "【UiPath】業務フロー図を楽々作成 with UiPath Delegate or Assistant",
+      "author": "Kajiita",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Kajiita/items/dc685ff75d847e0d3e24",
+      "publishedAt": "2026-06-18",
+      "tags": [
+        "UiPath",
+        "Delegate",
+        "Assistant",
+        "業務フロー"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。Delegate / Assistant / 業務フロー"
+    },
     {
       "id": "qiita-de7ae6e96186fe096982",
       "title": "UiPath for Coding Agents＋Chrome DevTools MCPでワークフローを生成してみました",
