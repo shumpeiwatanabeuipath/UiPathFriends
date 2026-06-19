@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-18",
-  "searchWindow": "Qiita / note: 2025-12-18 - 2026-06-18; UiPath official: listed pages as of 2026-06-18",
+  "generatedAt": "2026-06-19",
+  "searchWindow": "Qiita / note: 2025-12-19 - 2026-06-19; UiPath official: listed pages as of 2026-06-19",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "国内AIエージェント動向(2026/6/19号)｜Yasuhito Morimoto",
+      "author": "yasuhitoo",
+      "platform": "note",
+      "url": "https://note.com/yasuhitoo/n/n8cf0844d57a0",
+      "publishedAt": "2026-06-19",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "更新日：2026/6/19 エグゼクティブサマリー 2026/6/18は、国内企業・自治体におけるAIエージェント活用が、実証段階から業務実装・全社展開へ進み始めている状況が浮き彫りとなりました。Claude Codeの全社導入、MCP経由の請求書支払い、AIプロジェクトマネジメ",
+      "id": "note-note-com-yasuhitoo-n-n8cf0844d57a0-2026-06-19"
+    },
+    {
+      "title": "【徹底検証】IT顧問が語る「キーエンスRK-10」実機テストのリアル：オフィシャルRPA（UiPath）による自動化戦略の硬直化を打破できるか｜株式会社スカイジャパン",
+      "author": "skyjapan",
+      "platform": "note",
+      "url": "https://note.com/skyjapan/n/n56767851e4ac",
+      "publishedAt": "2026-06-19",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "多くの企業が「全社DX」や「業務自動化」を掲げ、全社共通の公式RPAを導入しています。 しかし、私がサポートさせていただいているクライアント企業でも、オフィシャルRPA（UiPath）が存在するにもかかわらず、「開発スピードが遅い」「現場の細かい要望が通りにくい」「結局エンジニア",
+      "id": "note-note-com-skyjapan-n-n56767851e4ac-2026-06-19"
+    },
     {
       "id": "qiita-dc685ff75d847e0d3e24",
       "title": "【UiPath】業務フロー図を楽々作成 with UiPath Delegate or Assistant",
