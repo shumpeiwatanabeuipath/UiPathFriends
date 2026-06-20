@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-19",
-  "searchWindow": "Qiita / note: 2025-12-19 - 2026-06-19; UiPath official: listed pages as of 2026-06-19",
+  "generatedAt": "2026-06-20",
+  "searchWindow": "Qiita / note: 2025-12-20 - 2026-06-20; UiPath official: listed pages as of 2026-06-20",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "国内AIエージェント動向(2026/6/20号)｜Yasuhito Morimoto",
+      "author": "yasuhitoo",
+      "platform": "note",
+      "url": "https://note.com/yasuhitoo/n/n59c136c91905",
+      "publishedAt": "2026-06-20",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "更新日：2026/6/20 エグゼクティブサマリー 2026/6/19は、国内外企業によるAIエージェント活用が、問い合わせ対応、SNS分析、マーケティング、EC接客、ID管理、セキュリティ、業務自動化、製造現場改善へ広がりました。Hmcommは「Terry2」で問い合わせ自動化",
+      "id": "note-note-com-yasuhitoo-n-n59c136c91905-2026-06-20"
+    },
     {
       "title": "国内AIエージェント動向(2026/6/19号)｜Yasuhito Morimoto",
       "author": "yasuhitoo",
