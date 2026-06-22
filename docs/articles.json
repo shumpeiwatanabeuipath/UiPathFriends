@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21",
-  "searchWindow": "Qiita / note: 2025-12-21 - 2026-06-21; UiPath official: listed pages as of 2026-06-21",
+  "generatedAt": "2026-06-22",
+  "searchWindow": "Qiita / note: 2025-12-22 - 2026-06-22; UiPath official: listed pages as of 2026-06-22",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath Global MVP Summit 2026 - Part.1｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/nb99d566af60f",
+      "publishedAt": "2026-06-22",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) このnoteでは、2026年6月24日(水)～26日(金) までスペイン・マドリードで開催される「UiPath Global MVP Summit 2026」についてご紹介します。 以前、2024年にイン",
+      "id": "note-note-com-shumpei-w-n-nb99d566af60f-2026-06-22"
+    },
+    {
+      "title": "UiPath｜アクティビティ｜Excel｜Run Spreadsheet Macro｜Excelマクロ実行と戻り値の扱い｜Parusの寺小屋",
+      "author": "parus",
+      "platform": "note",
+      "url": "https://note.com/parus/n/n498bd90778d0",
+      "publishedAt": "2026-06-21",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "基本構文 Run Spreadsheet Macro は、マクロ有効ブック内にある指定マクロを実行し、必要に応じて引数と戻り値を扱うアクティビティである。 対象は、Use Excel File で選択した Excel ファイルまたは Project Notebook であり、マク",
+      "id": "note-note-com-parus-n-n498bd90778d0-2026-06-21"
+    },
     {
       "title": "国内AIエージェント動向(2026/6/20号)｜Yasuhito Morimoto",
       "author": "yasuhitoo",
