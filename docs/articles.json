@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22",
-  "searchWindow": "Qiita / note: 2025-12-22 - 2026-06-22; UiPath official: listed pages as of 2026-06-22",
+  "generatedAt": "2026-06-23",
+  "searchWindow": "Qiita / note: 2025-12-23 - 2026-06-23; UiPath official: listed pages as of 2026-06-23",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-5afa29a47cafeb7c7f16",
+      "title": "【UiPath】Coded Appsで開発したアプリの品質評価Tips",
+      "author": "Kajiita",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Kajiita/items/5afa29a47cafeb7c7f16",
+      "publishedAt": "2026-06-23",
+      "tags": [
+        "UiPath",
+        "アプリ",
+        "Apps",
+        "品質"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。アプリ / Apps / 品質"
+    },
     {
       "title": "UiPath Global MVP Summit 2026 - Part.1｜Shumpei Watanabe",
       "author": "shumpei_w",
