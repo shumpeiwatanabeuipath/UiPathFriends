@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-23",
-  "searchWindow": "Qiita / note: 2025-12-23 - 2026-06-23; UiPath official: listed pages as of 2026-06-23",
+  "generatedAt": "2026-06-24",
+  "searchWindow": "Qiita / note: 2025-12-24 - 2026-06-24; UiPath official: listed pages as of 2026-06-24",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-76b346a0c8f97c57cbcf",
+      "title": "【VB.NET / UiPath】アクティビティ実践ガイド",
+      "author": "Aki_597462",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Aki_597462/items/76b346a0c8f97c57cbcf",
+      "publishedAt": "2026-06-24",
+      "tags": [
+        "UiPath",
+        "RPA"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。RPA / UiPath"
+    },
     {
       "id": "qiita-5afa29a47cafeb7c7f16",
       "title": "【UiPath】Coded Appsで開発したアプリの品質評価Tips",
@@ -99,6 +112,21 @@
       ],
       "summary": "多くの企業が「全社DX」や「業務自動化」を掲げ、全社共通の公式RPAを導入しています。 しかし、私がサポートさせていただいているクライアント企業でも、オフィシャルRPA（UiPath）が存在するにもかかわらず、「開発スピードが遅い」「現場の細かい要望が通りにくい」「結局エンジニア",
       "id": "note-note-com-skyjapan-n-n56767851e4ac-2026-06-19"
+    },
+    {
+      "id": "qiita-37d3a3548294c1999855",
+      "title": "Hugging Face の外部 LLM を安全につなぐ UiPath Coded Agent 入門",
+      "author": "dlrudqls99",
+      "platform": "Qiita",
+      "url": "https://qiita.com/dlrudqls99/items/37d3a3548294c1999855",
+      "publishedAt": "2026-06-19",
+      "tags": [
+        "UiPath",
+        "Python",
+        "huggingface",
+        "@Langchain"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。Python / UiPath / huggingface"
     },
     {
       "id": "qiita-dc685ff75d847e0d3e24",
