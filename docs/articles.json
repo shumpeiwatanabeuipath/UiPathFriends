@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-27",
-  "searchWindow": "Qiita / note: 2025-12-27 - 2026-06-27; UiPath official: listed pages as of 2026-06-27",
+  "generatedAt": "2026-06-28",
+  "searchWindow": "Qiita / note: 2025-12-28 - 2026-06-28; UiPath official: listed pages as of 2026-06-28",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath（PATH）vs Monday.com（MNDY）— 事業成長力を徹底比較する｜kabutabi",
+      "author": "kabutabi2000",
+      "platform": "note",
+      "url": "https://note.com/kabutabi2000/n/n61f20794e039",
+      "publishedAt": "2026-06-28",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "【「AIの問い」に直面する成長SaaS ― 自動化の老舗UiPath vs 高成長のWork OS、Monday.com】 記録日：2026年6月17日（株価・指標は同日付近の概算値） 注記（読み始める前に） 通貨・市場：両社とも米ドル建て、米国上場（UiPath：NYSE／Mo",
+      "id": "note-note-com-kabutabi2000-n-n61f20794e039-2026-06-28"
+    },
     {
       "id": "qiita-76b346a0c8f97c57cbcf",
       "title": "【VB.NET / UiPath】アクティビティ実践ガイド",
