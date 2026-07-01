@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-30",
-  "searchWindow": "Qiita / note: 2025-12-30 - 2026-06-30; UiPath official: listed pages as of 2026-06-30",
+  "generatedAt": "2026-07-01",
+  "searchWindow": "Qiita / note: 2026-01-01 - 2026-07-01; UiPath official: listed pages as of 2026-07-01",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,33 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-738e11dacb5a8c992ed4",
+      "title": "Vibe CodingでUiPath Coded Appsを作成してみる",
+      "author": "songxz",
+      "platform": "Qiita",
+      "url": "https://qiita.com/songxz/items/738e11dacb5a8c992ed4",
+      "publishedAt": "2026-07-01",
+      "tags": [
+        "UiPath",
+        "UiPathApps",
+        "CodingAgent"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathApps / CodingAgent"
+    },
+    {
+      "title": "UiPath MVP Summit 2026 参加レポート｜ちゅき",
+      "author": "chuki082",
+      "platform": "note",
+      "url": "https://note.com/chuki082/n/n878fd3be44e3",
+      "publishedAt": "2026-07-01",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "スペインのマドリードで開催されたUiPath MVP Summit 2026 に参加してきました。世界各地からMVPが集まり、製品ロードマップの最新情報やデモを通じて濃密な３日間を過ごしました。本記事では、各セッションの内容を順にまとめてご紹介します。せっかくのAIを中心としたセ",
+      "id": "note-note-com-chuki082-n-n878fd3be44e3-2026-07-01"
+    },
     {
       "title": "UiPath（PATH）vs Monday.com（MNDY）— 事業成長力を徹底比較する｜kabutabi",
       "author": "kabutabi2000",
