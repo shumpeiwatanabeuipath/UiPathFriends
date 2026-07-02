@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-01",
-  "searchWindow": "Qiita / note: 2026-01-01 - 2026-07-01; UiPath official: listed pages as of 2026-07-01",
+  "generatedAt": "2026-07-02",
+  "searchWindow": "Qiita / note: 2026-01-02 - 2026-07-02; UiPath official: listed pages as of 2026-07-02",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-9e1c6271c211bff3606b",
+      "title": "【UiPath】かゆいところに手が届く Maestro さん",
+      "author": "Kajiita",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Kajiita/items/9e1c6271c211bff3606b",
+      "publishedAt": "2026-07-02",
+      "tags": [
+        "UiPath",
+        "WebAPI",
+        "BOX",
+        "HTTPリクエスト"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。WebAPI / BOX / UiPath"
+    },
     {
       "id": "qiita-738e11dacb5a8c992ed4",
       "title": "Vibe CodingでUiPath Coded Appsを作成してみる",
