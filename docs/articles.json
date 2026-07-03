@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-02",
-  "searchWindow": "Qiita / note: 2026-01-02 - 2026-07-02; UiPath official: listed pages as of 2026-07-02",
+  "generatedAt": "2026-07-03",
+  "searchWindow": "Qiita / note: 2026-01-03 - 2026-07-03; UiPath official: listed pages as of 2026-07-03",
   "sources": [
     {
       "label": "Qiita",
@@ -61,6 +61,21 @@
       ],
       "summary": "スペインのマドリードで開催されたUiPath MVP Summit 2026 に参加してきました。世界各地からMVPが集まり、製品ロードマップの最新情報やデモを通じて濃密な３日間を過ごしました。本記事では、各セッションの内容を順にまとめてご紹介します。せっかくのAIを中心としたセ",
       "id": "note-note-com-chuki082-n-n878fd3be44e3-2026-07-01"
+    },
+    {
+      "id": "qiita-ca5aa7fa365d83cb8683",
+      "title": "【UiPath】SCIMによるEntra ID / Oktaとのユーザー情報自動同期",
+      "author": "hidecha",
+      "platform": "Qiita",
+      "url": "https://qiita.com/hidecha/items/ca5aa7fa365d83cb8683",
+      "publishedAt": "2026-07-01",
+      "tags": [
+        "UiPath",
+        "scim",
+        "okta",
+        "UiPathAutomationCloud"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。scim / UiPath / okta"
     },
     {
       "title": "UiPath（PATH）vs Monday.com（MNDY）— 事業成長力を徹底比較する｜kabutabi",
