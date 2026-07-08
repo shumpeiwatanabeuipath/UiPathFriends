@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07",
-  "searchWindow": "Qiita / note: 2026-01-07 - 2026-07-07; UiPath official: listed pages as of 2026-07-07",
+  "generatedAt": "2026-07-08",
+  "searchWindow": "Qiita / note: 2026-01-08 - 2026-07-08; UiPath official: listed pages as of 2026-07-08",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath for Coding AgentsをIBM Bobで動かしてみた｜ちゅき",
+      "author": "chuki082",
+      "platform": "note",
+      "url": "https://note.com/chuki082/n/n06caa3c04ce5",
+      "publishedAt": "2026-07-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPath ブログチャレンジ開催中！ ということで、乗っかってみました。 今はやりのCoding AgentでRPAを開発するUiPath for Coding AgentsをIBM Bobで動かしてみました。結果、十分に使えそうだということでブログにしてみました。 はじめに ",
+      "id": "note-note-com-chuki082-n-n06caa3c04ce5-2026-07-08"
+    },
+    {
+      "title": "UiPathオフィスにお邪魔しよう 〜UFOキャッチャーで念願のコンプリート、そして名古屋オフィスへ〜｜Fuga",
+      "author": "kushiagetarou",
+      "platform": "note",
+      "url": "https://note.com/kushiagetarou/n/n47911be7ee5c",
+      "publishedAt": "2026-07-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "この記事は UiPathブログ発信チャレンジ2026サマー の 8日目の記事です。 前回は @Chuki さんの「UiPath for Coding AgentsをIBM Bobで動かしてみた」でした。 みなさん、こんにちは。 普段は UiPath Friends 東海 の主催を",
+      "id": "note-note-com-kushiagetarou-n-n47911be7ee5c-2026-07-08"
+    },
     {
       "id": "qiita-cf3b940832255bfba3d6",
       "title": "【UiPath】Extract ZIP/EXE file in VB.NET",
