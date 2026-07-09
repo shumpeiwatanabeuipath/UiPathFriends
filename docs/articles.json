@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-08",
-  "searchWindow": "Qiita / note: 2026-01-08 - 2026-07-08; UiPath official: listed pages as of 2026-07-08",
+  "generatedAt": "2026-07-09",
+  "searchWindow": "Qiita / note: 2026-01-09 - 2026-07-09; UiPath official: listed pages as of 2026-07-09",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "【健診バックヤード激変】「書類仕事で一日が終わる」を終わらせる。2026年改定を逆手に取った、生成AI×RPAの超自動化戦略｜シゲ蔵",
+      "author": "ultrashigezo777",
+      "platform": "note",
+      "url": "https://note.com/ultrashigezo777/n/n02e55f944798",
+      "publishedAt": "2026-07-09",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "はじめに：なぜ私たちの健診センターは、いつも「書類」に追われているのか 健診機関の事務長やフロアマネージャーの方なら、誰もが日々、頭を悩ませている問題があります。それは、華やかな健診フロアの裏側で、バックヤードのスタッフが「文字通りの書類の山」に圧殺されかけているという現実です。",
+      "id": "note-note-com-ultrashigezo777-n-n02e55f944798-2026-07-09"
+    },
     {
       "title": "UiPath for Coding AgentsをIBM Bobで動かしてみた｜ちゅき",
       "author": "chuki082",
