@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09",
-  "searchWindow": "Qiita / note: 2026-01-09 - 2026-07-09; UiPath official: listed pages as of 2026-07-09",
+  "generatedAt": "2026-07-10",
+  "searchWindow": "Qiita / note: 2026-01-10 - 2026-07-10; UiPath official: listed pages as of 2026-07-10",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "AIエージェント・業務自動化テーマ徹底解剖：UiPath（$PATH）は\"次の主役\"になれるか｜株の通知表",
+      "author": "kabu_tsuchihyo",
+      "platform": "note",
+      "url": "https://note.com/kabu_tsuchihyo/n/n950d4e43c9bd",
+      "publishedAt": "2026-07-10",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "今、海外でこのテーマが熱い理由 いいか、よく聞け。 今、海外の機関投資家やVCの間で「AIエージェント」という言葉が飛び交っている。ChatGPTのような「聞いたら答える」AIじゃない。自分で考えて、自分で動いて、業務を完結させるAIのことだ。 俺も最近だが、自動取引Botを作成",
+      "id": "note-note-com-kabu-tsuchihyo-n-n950d4e43c9bd-2026-07-10"
+    },
     {
       "title": "【健診バックヤード激変】「書類仕事で一日が終わる」を終わらせる。2026年改定を逆手に取った、生成AI×RPAの超自動化戦略｜シゲ蔵",
       "author": "ultrashigezo777",
