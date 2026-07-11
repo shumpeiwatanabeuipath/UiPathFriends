@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-10",
-  "searchWindow": "Qiita / note: 2026-01-10 - 2026-07-10; UiPath official: listed pages as of 2026-07-10",
+  "generatedAt": "2026-07-11",
+  "searchWindow": "Qiita / note: 2026-01-11 - 2026-07-11; UiPath official: listed pages as of 2026-07-11",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-a03644cebdcd42a07a00",
+      "title": "UiPath Orchestrator フォルダ設計まとめ ― 5つの単位・4つの構成パターン・6つの運用ルール",
+      "author": "Gaboz",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Gaboz/items/a03644cebdcd42a07a00",
+      "publishedAt": "2026-07-11",
+      "tags": [
+        "UiPath",
+        "RPA",
+        "UiPathOrchestrator",
+        "UiPathFriends"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。RPA / UiPath / UiPathOrchestrator"
+    },
     {
       "title": "AIエージェント・業務自動化テーマ徹底解剖：UiPath（$PATH）は\"次の主役\"になれるか｜株の通知表",
       "author": "kabu_tsuchihyo",
