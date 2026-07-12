@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-11",
-  "searchWindow": "Qiita / note: 2026-01-11 - 2026-07-11; UiPath official: listed pages as of 2026-07-11",
+  "generatedAt": "2026-07-12",
+  "searchWindow": "Qiita / note: 2026-01-12 - 2026-07-12; UiPath official: listed pages as of 2026-07-12",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "マドリードに集結した世界中のMVPたちと - UiPath Global MVP Summit 2026 - Part.2 ｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/n76b7f5fdfa2c",
+      "publishedAt": "2026-07-12",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) この記事はUiPathブログ発信チャレンジ2026サマーの12日目の記事です。 昨日は@Gaboz581662さんの記事、明日は@Komi_Labさんの投稿が予定されていますので、ぜひお読みくださいね！(",
+      "id": "note-note-com-shumpei-w-n-n76b7f5fdfa2c-2026-07-12"
+    },
     {
       "id": "qiita-a03644cebdcd42a07a00",
       "title": "UiPath Orchestrator フォルダ設計まとめ ― 5つの単位・4つの構成パターン・6つの運用ルール",
