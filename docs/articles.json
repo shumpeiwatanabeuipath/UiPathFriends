@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-13",
-  "searchWindow": "Qiita / note: 2026-01-13 - 2026-07-13; UiPath official: listed pages as of 2026-07-13",
+  "generatedAt": "2026-07-14",
+  "searchWindow": "Qiita / note: 2026-01-14 - 2026-07-14; UiPath official: listed pages as of 2026-07-14",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "エージェンティックオートメーションアソシエイト合格しました！｜しょうへい",
+      "author": "shohei_noel",
+      "platform": "note",
+      "url": "https://note.com/shohei_noel/n/n6aeb569ab874",
+      "publishedAt": "2026-07-14",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "エージェンティックオートメーションアソシエイト合格しました！ 「この記事はUiPathブログ発信チャレンジ2026サマーの14日目の記事です。」 Komi Lab.(@Komi_Lab)さんのXの投稿から、色々調べてnoteアカウント作って初投稿しています。noteの作法とかあま",
+      "id": "note-note-com-shohei-noel-n-n6aeb569ab874-2026-07-14"
+    },
     {
       "title": "マドリードに集結した世界中のMVPたちと - UiPath Global MVP Summit 2026 - Part.2 ｜Shumpei Watanabe",
       "author": "shumpei_w",
@@ -320,6 +333,19 @@
         "ChromeDevTool"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。JavaScript / Chrome / uiautomation"
+    },
+    {
+      "title": "“子どもたちのために”が、社員を動かした UiPath Japan社員が語る、思いやりの連鎖を生むボランティア活動",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/blog/uipath-japan-story/volunteer26-01",
+      "publishedAt": "2026-06-12",
+      "tags": [
+        "公式ブログ",
+        "UiPath"
+      ],
+      "summary": "今回、社員がオフィスで参加できるボランティア活動として、「森のライフスタイル研究所」協力主催による日本の木材を材料にした知育木製パズルづくりを実施しました。完成した木製パズルは、震災被害にあった子どもたちのいる施設へ届けられます。",
+      "id": "uipath-www-uipath-com-ja-blog-uipath-japan-story-volunteer26-01-2026-06-12"
     },
     {
       "id": "qiita-a6380f818104ffbb80b6",
