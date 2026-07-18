@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17",
-  "searchWindow": "Qiita / note: 2026-01-17 - 2026-07-17; UiPath official: listed pages as of 2026-07-17",
+  "generatedAt": "2026-07-18",
+  "searchWindow": "Qiita / note: 2026-01-18 - 2026-07-18; UiPath official: listed pages as of 2026-07-18",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath CEO ダニエル・ディネスが、「人間にしかできない仕事」を語り始めた｜Kiyoko Kikuchihara (Koko)",
+      "author": "kokoderosas",
+      "platform": "note",
+      "url": "https://note.com/kokoderosas/n/n41415ec3b08a",
+      "publishedAt": "2026-07-18",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。UiPath の koko です。 この記事はUiPathブログ発信チャレンジ2026サマーの18日目の記事です。 UiPath ブログ発信チャレンジ サマー2026 UiPathブログ発信チャレンジ サマー2026のエントリー管理ページ。カレンダーと記事一",
+      "id": "note-note-com-kokoderosas-n-n41415ec3b08a-2026-07-18"
+    },
     {
       "title": "エージェンティックオートメーションアソシエイト合格しました！｜しょうへい",
       "author": "shohei_noel",
