@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-19",
-  "searchWindow": "Qiita / note: 2026-01-19 - 2026-07-19; UiPath official: listed pages as of 2026-07-19",
+  "generatedAt": "2026-07-20",
+  "searchWindow": "Qiita / note: 2026-01-20 - 2026-07-20; UiPath official: listed pages as of 2026-07-20",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath Test Cloud 技術トレーニングに参加してきました――人海戦術だったテスト現場はどう変わるのか｜Fuga",
+      "author": "kushiagetarou",
+      "platform": "note",
+      "url": "https://note.com/kushiagetarou/n/n1085cc1d56fa",
+      "publishedAt": "2026-07-21",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "この記事は「UiPathブログ発信チャレンジ2026サマー」の21日目の記事です。 前日は@myoshidanさんの「AIエージェント時代の業務プロセス管理 ― UiPath Process Repositoryとは」でした。 みなさん、こんにちは。 普段はUiPath Frie",
+      "id": "note-note-com-kushiagetarou-n-n1085cc1d56fa-2026-07-21"
+    },
     {
       "title": "UiPath CEO ダニエル・ディネスが、「人間にしかできない仕事」を語り始めた｜Kiyoko Kikuchihara (Koko)",
       "author": "kokoderosas",
@@ -88,7 +101,7 @@
       "id": "note-note-com-kabu-tsuchihyo-n-n950d4e43c9bd-2026-07-10"
     },
     {
-      "title": "【健診バックヤード激変】「書類仕事で一日が終わる」を終わらせる。2026年改定を逆手に取った、生成AI×RPAの超自動化戦略｜シゲ蔵",
+      "title": "【健診バックヤード激変】「書類仕事で一日が終わる」を終わらせる。2026年改定を逆手に取った、生成AI×RPAの超自動化戦略｜健診マスターDX",
       "author": "ultrashigezo777",
       "platform": "note",
       "url": "https://note.com/ultrashigezo777/n/n02e55f944798",
