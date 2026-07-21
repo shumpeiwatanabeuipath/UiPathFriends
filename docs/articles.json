@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20",
-  "searchWindow": "Qiita / note: 2026-01-20 - 2026-07-20; UiPath official: listed pages as of 2026-07-20",
+  "generatedAt": "2026-07-21",
+  "searchWindow": "Qiita / note: 2026-01-21 - 2026-07-21; UiPath official: listed pages as of 2026-07-21",
   "sources": [
     {
       "label": "Qiita",
@@ -34,6 +34,21 @@
       "id": "note-note-com-kushiagetarou-n-n1085cc1d56fa-2026-07-21"
     },
     {
+      "id": "qiita-bc1aae5e6e18a4b7d8e8",
+      "title": "AIエージェント時代の業務プロセス管理 ― UiPath Process Repositoryとは",
+      "author": "myoshidan",
+      "platform": "Qiita",
+      "url": "https://qiita.com/myoshidan/items/bc1aae5e6e18a4b7d8e8",
+      "publishedAt": "2026-07-21",
+      "tags": [
+        "UiPath",
+        "UiPathMaestro",
+        "UiPathAutomationHub",
+        "UiPathProcessRepository"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathMaestro / UiPathAutomationHub"
+    },
+    {
       "title": "UiPath CEO ダニエル・ディネスが、「人間にしかできない仕事」を語り始めた｜Kiyoko Kikuchihara (Koko)",
       "author": "kokoderosas",
       "platform": "note",
@@ -45,6 +60,19 @@
       ],
       "summary": "みなさん、こんにちは。UiPath の koko です。 この記事はUiPathブログ発信チャレンジ2026サマーの18日目の記事です。 UiPath ブログ発信チャレンジ サマー2026 UiPathブログ発信チャレンジ サマー2026のエントリー管理ページ。カレンダーと記事一",
       "id": "note-note-com-kokoderosas-n-n41415ec3b08a-2026-07-18"
+    },
+    {
+      "id": "qiita-061e020f6e0005f15618",
+      "title": "反社チェック業務における、エージェントの本番実装",
+      "author": "fujinc",
+      "platform": "Qiita",
+      "url": "https://qiita.com/fujinc/items/061e020f6e0005f15618",
+      "publishedAt": "2026-07-18",
+      "tags": [
+        "UiPath",
+        "Agent"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / Agent"
     },
     {
       "title": "エージェンティックオートメーションアソシエイト合格しました！｜しょうへい",
