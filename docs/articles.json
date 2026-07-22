@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-21",
-  "searchWindow": "Qiita / note: 2026-01-21 - 2026-07-21; UiPath official: listed pages as of 2026-07-21",
+  "generatedAt": "2026-07-22",
+  "searchWindow": "Qiita / note: 2026-01-22 - 2026-07-22; UiPath official: listed pages as of 2026-07-22",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath IXPの可能性が半端ない！「本当に取れている？」が見えるAI文書活用へ｜kin",
+      "author": "kambekinu",
+      "platform": "note",
+      "url": "https://note.com/kambekinu/n/n4a3f91782cf9",
+      "publishedAt": "2026-07-22",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "Autopilotによる設定支援、AIの予測結果を検証できる見える化、多言語対応。UiPath IXPがAI活用のハードルを大きく下げている。 こんにちわ kin(@kambekinu)です。 この記事はUiPathブログ発信チャレンジ2026サマーの22日目の記事です。 昨日2",
+      "id": "note-note-com-kambekinu-n-n4a3f91782cf9-2026-07-22"
+    },
     {
       "title": "UiPath Test Cloud 技術トレーニングに参加してきました――人海戦術だったテスト現場はどう変わるのか｜Fuga",
       "author": "kushiagetarou",
