@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-25",
-  "searchWindow": "Qiita / note: 2026-01-25 - 2026-07-25; UiPath official: listed pages as of 2026-07-25",
+  "generatedAt": "2026-07-26",
+  "searchWindow": "Qiita / note: 2026-01-26 - 2026-07-26; UiPath official: listed pages as of 2026-07-26",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-4bfdea77fc44634c0176",
+      "title": "UiPathで実践するRPAテスト ～Studioのテスト機能とTest Manager Autopilot活用～",
+      "author": "Jun96427231",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Jun96427231/items/4bfdea77fc44634c0176",
+      "publishedAt": "2026-07-26",
+      "tags": [
+        "UiPath",
+        "UiPathFriends",
+        "RPAテスト",
+        "TestManger"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathFriends / RPAテスト"
+    },
     {
       "title": "UiPath IXPの可能性が半端ない！「本当に取れている？」が見えるAI文書活用へ｜kin",
       "author": "kambekinu",
