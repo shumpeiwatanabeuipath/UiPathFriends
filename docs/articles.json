@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-27",
-  "searchWindow": "Qiita / note: 2026-01-27 - 2026-07-27; UiPath official: listed pages as of 2026-07-27",
+  "generatedAt": "2026-07-28",
+  "searchWindow": "Qiita / note: 2026-01-28 - 2026-07-28; UiPath official: listed pages as of 2026-07-28",
   "sources": [
     {
       "label": "Qiita",
@@ -21,6 +21,21 @@
   ],
   "articles": [
     {
+      "id": "qiita-329da25cd185cf5f7961",
+      "title": "明日の UiPath DevCon Tokyo、私が前のめりになる3セッション",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/329da25cd185cf5f7961",
+      "publishedAt": "2026-07-28",
+      "tags": [
+        "UiPath",
+        "AI",
+        "RPA",
+        "AIエージェント"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / AI / RPA"
+    },
+    {
       "id": "qiita-4bfdea77fc44634c0176",
       "title": "UiPathで実践するRPAテスト ～Studioのテスト機能とTest Manager Autopilot活用～",
       "author": "Jun96427231",
@@ -34,6 +49,21 @@
         "TestManger"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathFriends / RPAテスト"
+    },
+    {
+      "id": "qiita-38fa48b4387cbbea7a07",
+      "title": "【運用編】UiPath for Coding AgentsでRPA運用：Claude Codeでエラー分析、修正、テスト、デプロイまで行う",
+      "author": "utanesuke",
+      "platform": "Qiita",
+      "url": "https://qiita.com/utanesuke/items/38fa48b4387cbbea7a07",
+      "publishedAt": "2026-07-24",
+      "tags": [
+        "UiPath",
+        "RPA",
+        "CodingAgent",
+        "ClaudeCode"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / RPA / CodingAgent"
     },
     {
       "title": "UiPath IXPの可能性が半端ない！「本当に取れている？」が見えるAI文書活用へ｜kin",
@@ -75,6 +105,21 @@
         "UiPathProcessRepository"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathMaestro / UiPathAutomationHub"
+    },
+    {
+      "id": "qiita-e4e514bbb849bb021701",
+      "title": "【開発編】UiPath for Coding AgentsでRPA開発：Studio + Claude CodeでCSVからWeb登録まで作る",
+      "author": "utanesuke",
+      "platform": "Qiita",
+      "url": "https://qiita.com/utanesuke/items/e4e514bbb849bb021701",
+      "publishedAt": "2026-07-21",
+      "tags": [
+        "UiPath",
+        "CodingAgent",
+        "ClaudeCode",
+        "codex"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / CodingAgent / ClaudeCode"
     },
     {
       "title": "UiPath CEO ダニエル・ディネスが、「人間にしかできない仕事」を語り始めた｜Kiyoko Kikuchihara (Koko)",
