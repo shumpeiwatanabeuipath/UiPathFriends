@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28",
-  "searchWindow": "Qiita / note: 2026-01-28 - 2026-07-28; UiPath official: listed pages as of 2026-07-28",
+  "generatedAt": "2026-07-29",
+  "searchWindow": "Qiita / note: 2026-01-29 - 2026-07-29; UiPath official: listed pages as of 2026-07-29",
   "sources": [
     {
       "label": "Qiita",
@@ -21,8 +21,21 @@
   ],
   "articles": [
     {
+      "title": "はじめまして、UiPath Japanです。｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n52868628788d",
+      "publishedAt": "2026-07-29",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPath note編集部です。このたび、UiPath Japanとしてnoteを始めることになりました。 UiPathは、企業の仕事の流れを、AIと自動化でよりよくすることを支援しています。 ただ、このnoteは、製品情報や公式発表をそのままお届けする場所ではありません。 自",
+      "id": "note-note-com-uipathjapan-n-n52868628788d-2026-07-29"
+    },
+    {
       "id": "qiita-329da25cd185cf5f7961",
-      "title": "明日の UiPath DevCon Tokyo、私が前のめりになる3セッション",
+      "title": "UiPath DevCon Tokyo、私が前のめりになる3セッション",
       "author": "Hash1mo",
       "platform": "Qiita",
       "url": "https://qiita.com/Hash1mo/items/329da25cd185cf5f7961",
