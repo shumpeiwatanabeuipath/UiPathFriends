@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-01",
-  "searchWindow": "Qiita / note: 2026-02-01 - 2026-08-01; UiPath official: listed pages as of 2026-08-01",
+  "generatedAt": "2026-08-02",
+  "searchWindow": "Qiita / note: 2026-02-02 - 2026-08-02; UiPath official: listed pages as of 2026-08-02",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "#UiPathブログ 発信チャレンジサマー2026 まとめ - 現場の学びがつながった、エージェントたちの夏｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/n5ab78152ee1b",
+      "publishedAt": "2026-08-02",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) 2026年7月1日〜31日の1カ月間にわたって開催した「UiPath ブログ発信チャレンジサマー2026」が閉幕しました。記事を書いてくださったみなさま、本当にお疲れさまでした！そして、記事を読んで「いい",
+      "id": "note-note-com-shumpei-w-n-n5ab78152ee1b-2026-08-02"
+    },
     {
       "id": "qiita-e4ca0a669392b9722ca9",
       "title": "UiPath Studio Autopilot はコーディングエージェントとして使えるのか？",
