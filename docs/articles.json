@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-03",
-  "searchWindow": "Qiita / note: 2026-02-03 - 2026-08-03; UiPath official: listed pages as of 2026-08-03",
+  "generatedAt": "2026-08-04",
+  "searchWindow": "Qiita / note: 2026-02-04 - 2026-08-04; UiPath official: listed pages as of 2026-08-04",
   "sources": [
     {
       "label": "Qiita",
@@ -367,6 +367,19 @@
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / Agent"
     },
     {
+      "title": "その手入力、RPAに任せられる。UiPath×Excelで自動入力するデモを無料配布します｜シン_製造業_AI_dx",
+      "author": "shin_ai_dx",
+      "platform": "note",
+      "url": "https://note.com/shin_ai_dx/n/n32e7b7b02e40",
+      "publishedAt": "2026-07-15",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "はじめに 前回まで、「システムを入れたのに、なぜか手入力が増えた」という話を書いてきました。同じ画面に、同じような数字を、毎日くり返し打ち込む。単純作業なのに、時間だけがごっそり溶けていく——製造業の生産管理や事務に関わった人なら、覚えのある感覚だと思います。 前回の実装編では、",
+      "id": "note-note-com-shin-ai-dx-n-n32e7b7b02e40-2026-07-15"
+    },
+    {
       "title": "エージェンティックオートメーションアソシエイト合格しました！｜しょうへい",
       "author": "shohei_noel",
       "platform": "note",
@@ -470,6 +483,19 @@
         "UiPath"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "title": "システム導入で増えた手入力を、RPAでゼロに。DX推進で現場を敵にしないために｜シン_製造業_AI_dx",
+      "author": "shin_ai_dx",
+      "platform": "note",
+      "url": "https://note.com/shin_ai_dx/n/na756342e1572",
+      "publishedAt": "2026-07-06",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "新しいシステムを導入すると、なぜか現場の入力作業が増えることがあります。前より丁寧に、前より細かく記録するようになるからです。 その手間が、現場の余力を超えると、運用は形骸化し、現場は「また仕事を増やされた」と反感を持ちます。これは前回の記事で書いたとおりです。では、どうすればい",
+      "id": "note-note-com-shin-ai-dx-n-na756342e1572-2026-07-06"
     },
     {
       "id": "qiita-9e1c6271c211bff3606b",
