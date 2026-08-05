@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-04",
-  "searchWindow": "Qiita / note: 2026-02-04 - 2026-08-04; UiPath official: listed pages as of 2026-08-04",
+  "generatedAt": "2026-08-05",
+  "searchWindow": "Qiita / note: 2026-02-05 - 2026-08-05; UiPath official: listed pages as of 2026-08-05",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "マイクロソフトが「作業を録画するだけ」のアプリを無料で配り始めました ― 日本の職場に残った手作業は、これで本当に消えるのか｜和田康彦 佐賀大学名誉教授",
+      "author": "bold_hornet726",
+      "platform": "note",
+      "url": "https://note.com/bold_hornet726/n/n4242996daf1d",
+      "publishedAt": "2026-08-05",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "2026年8月4日、ITmediaがこんなニュースを報じました。マイクロソフト(Microsoft)が「スキル・レコーダー(Skill Recorder)」というデスクトップアプリを無料で公開した、というものです。パソコンでの作業を録画すると、その手順をAIが読み取って、AIエー",
+      "id": "note-note-com-bold-hornet726-n-n4242996daf1d-2026-08-05"
+    },
     {
       "id": "qiita-e33fc467640a4383d7d4",
       "title": "【UiPath】超簡単✨ライセンスの実消費量の調べ方",
