@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-05",
-  "searchWindow": "Qiita / note: 2026-02-05 - 2026-08-05; UiPath official: listed pages as of 2026-08-05",
+  "generatedAt": "2026-08-06",
+  "searchWindow": "Qiita / note: 2026-02-06 - 2026-08-06; UiPath official: listed pages as of 2026-08-06",
   "sources": [
     {
       "label": "Qiita",
@@ -21,6 +21,32 @@
   ],
   "articles": [
     {
+      "title": "AIエージェントとロボットを組み合わせて実現する新しい自動化のかたち「エージェンティックオートメーション」──日本企業の「現場目線」で業務プロセスの進化を続けるUiPathが、新しい働き方を実現｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n56c83d30deb2",
+      "publishedAt": "2026-08-06",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathは、「エージェンティックオートメーション」を主眼に、業務自動化テクノロジーと「AIエージェント」を融合させ、エンド・ツー・エンドにわたる新世代業務自動化ソリューションを世に送り出そうとしています。エージェンティックオートメーションの価値と今後の展望について、そのマーケ",
+      "id": "note-note-com-uipathjapan-n-n56c83d30deb2-2026-08-06"
+    },
+    {
+      "title": "【PATH】UiPath｜DATA SHOVEL",
+      "author": "data_shovel",
+      "platform": "note",
+      "url": "https://note.com/data_shovel/n/n9a4b81c688fc",
+      "publishedAt": "2026-08-06",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathの簡単な歴史 ◾️ルーマニア発の小さな自動化企業から始まった歩み 創業者ダニエル・ダインズ氏 UiPathは、共同創業者であるダニエル・ダインズ氏を中心に成長してきました。ダインズ氏は現在もCEO兼会長を務めており、創業者が経営の中心に残る企業です。UiPathの大き",
+      "id": "note-note-com-data-shovel-n-n9a4b81c688fc-2026-08-06"
+    },
+    {
       "title": "マイクロソフトが「作業を録画するだけ」のアプリを無料で配り始めました ― 日本の職場に残った手作業は、これで本当に消えるのか｜和田康彦 佐賀大学名誉教授",
       "author": "bold_hornet726",
       "platform": "note",
@@ -32,6 +58,22 @@
       ],
       "summary": "2026年8月4日、ITmediaがこんなニュースを報じました。マイクロソフト(Microsoft)が「スキル・レコーダー(Skill Recorder)」というデスクトップアプリを無料で公開した、というものです。パソコンでの作業を録画すると、その手順をAIが読み取って、AIエー",
       "id": "note-note-com-bold-hornet726-n-n4242996daf1d-2026-08-05"
+    },
+    {
+      "id": "qiita-caa777766b5df0bfbd26",
+      "title": "UiPath Coded Appsでルーティングを活用する ～クエリ文字列・動的パラメーター活用編～",
+      "author": "tacman",
+      "platform": "Qiita",
+      "url": "https://qiita.com/tacman/items/caa777766b5df0bfbd26",
+      "publishedAt": "2026-08-05",
+      "tags": [
+        "UiPath",
+        "React",
+        "react-router",
+        "TypeScript",
+        "vite"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。React / react-router / TypeScript"
     },
     {
       "id": "qiita-e33fc467640a4383d7d4",
