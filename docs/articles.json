@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-08",
-  "searchWindow": "Qiita / note: 2026-02-08 - 2026-08-08; UiPath official: listed pages as of 2026-08-08",
+  "generatedAt": "2026-08-09",
+  "searchWindow": "Qiita / note: 2026-02-09 - 2026-08-09; UiPath official: listed pages as of 2026-08-09",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath Friends 2026 夏 イベントレポ｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/n39d4bd861a40",
+      "publishedAt": "2026-08-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(＠ShumpeiWatanabe) 2026年8月7日(金)、株式会社クレスコ様の会場をお借りして、夏のコミュニティイベント「UiPath Friends 2026 夏 ～DevCon 東京 &amp; MVP Summit マドリード ア",
+      "id": "note-note-com-shumpei-w-n-n39d4bd861a40-2026-08-08"
+    },
     {
       "title": "AIエージェントとロボットを組み合わせて実現する新しい自動化のかたち「エージェンティックオートメーション」──日本企業の「現場目線」で業務プロセスの進化を続けるUiPathが、新しい働き方を実現｜UiPath Japan",
       "author": "uipathjapan",
