@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-11",
-  "searchWindow": "Qiita / note: 2026-02-11 - 2026-08-11; UiPath official: listed pages as of 2026-08-11",
+  "generatedAt": "2026-08-12",
+  "searchWindow": "Qiita / note: 2026-02-12 - 2026-08-12; UiPath official: listed pages as of 2026-08-12",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "模擬試験 62.9% からの3週間 — Claude Code に問題を作ってもらって UiPath 認定試験に受かった話｜Komi Lab.",
+      "author": "komilab",
+      "platform": "note",
+      "url": "https://note.com/komilab/n/nc7e45cebb8f4",
+      "publishedAt": "2026-08-12",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "2026年7月29日、UiPath Agentic Automation Professional に合格しました。 正直に書くと、7月9日、UiPath Friends（日本のユーザーコミュニティ）のもくもく会で受けてみた模擬試験は 62.9% 合格ラインは 70% なので、普",
+      "id": "note-note-com-komilab-n-nc7e45cebb8f4-2026-08-12"
+    },
     {
       "title": "UiPath Friends 2026 夏 イベントレポ｜Shumpei Watanabe",
       "author": "shumpei_w",
