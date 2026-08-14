@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-13",
-  "searchWindow": "Qiita / note: 2026-02-13 - 2026-08-13; UiPath official: listed pages as of 2026-08-13",
+  "generatedAt": "2026-08-14",
+  "searchWindow": "Qiita / note: 2026-02-14 - 2026-08-14; UiPath official: listed pages as of 2026-08-14",
   "sources": [
     {
       "label": "Qiita",
@@ -345,6 +345,20 @@
         "AIエージェント"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / AI / RPA"
+    },
+    {
+      "id": "qiita-17dfb80bf145210519d9",
+      "title": "UiPath Integration Serviceアクティビティの種類と今後選びたいアクティビティ",
+      "author": "ts_saito",
+      "platform": "Qiita",
+      "url": "https://qiita.com/ts_saito/items/17dfb80bf145210519d9",
+      "publishedAt": "2026-07-30",
+      "tags": [
+        "UiPath",
+        "IntegrationService",
+        "Activity"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / IntegrationService / Activity"
     },
     {
       "title": "はじめまして、UiPath Japanです。｜UiPath Japan",
