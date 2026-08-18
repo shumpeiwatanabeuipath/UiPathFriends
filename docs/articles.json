@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-17",
-  "searchWindow": "Qiita / note: 2026-02-17 - 2026-08-17; UiPath official: listed pages as of 2026-08-17",
+  "generatedAt": "2026-08-18",
+  "searchWindow": "Qiita / note: 2026-02-18 - 2026-08-18; UiPath official: listed pages as of 2026-08-18",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "「UiPathと出会わなかったら今の自分はいない」デジタル人材の育成に貢献、企業成長を促すロボットとAIの魅力──UiPath Community MVP・佐々木 孝之氏に聞く｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/ned7d8d601d48",
+      "publishedAt": "2026-08-18",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathが2025年3月に発表した「UiPath Community MVP 2025」の1人に、田辺三菱製薬プロビジョン株式会社 デジタル事業部 部長の佐々木 孝之さんが選出されました。佐々木さんは田辺三菱製薬グループにおいて、UiPath製品をはじめとしたデジタルツールを",
+      "id": "note-note-com-uipathjapan-n-ned7d8d601d48-2026-08-18"
+    },
     {
       "id": "qiita-63cf3d0ba0d01f149c15",
       "title": "【UiPath】Integration Serviceのよくある質問をまとめてみた",
