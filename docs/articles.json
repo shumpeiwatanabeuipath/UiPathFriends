@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-19",
-  "searchWindow": "Qiita / note: 2026-02-19 - 2026-08-19; UiPath official: listed pages as of 2026-08-19",
+  "generatedAt": "2026-08-20",
+  "searchWindow": "Qiita / note: 2026-02-20 - 2026-08-20; UiPath official: listed pages as of 2026-08-20",
   "sources": [
     {
       "label": "Qiita",
@@ -21,6 +21,19 @@
   ],
   "articles": [
     {
+      "title": "AIとロボット、そして人の協働で自動化に革命を起こす！「UiPath for Coding Agents」と「IXP」がもたらす恩恵とは──UiPathエンジニアに聞く｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/ncbc79dd7a478",
+      "publishedAt": "2026-08-20",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathは常にお客さま目線に立った業務自動化ソリューションで最先端を走ってきました。最近は、生成AIとロボット、人間が協働しやすくなる革新的な製品を次々とリリースしています。今回は、特に日本のユーザーや開発者からの注目を集めている「UiPath for Coding Agen",
+      "id": "note-note-com-uipathjapan-n-ncbc79dd7a478-2026-08-20"
+    },
+    {
       "title": "「UiPathと出会わなかったら今の自分はいない」デジタル人材の育成に貢献、企業成長を促すロボットとAIの魅力──UiPath Community MVP・佐々木 孝之氏に聞く｜UiPath Japan",
       "author": "uipathjapan",
       "platform": "note",
@@ -35,7 +48,7 @@
     },
     {
       "id": "qiita-63cf3d0ba0d01f149c15",
-      "title": "【UiPath】Integration Serviceのよくある質問をまとめてみた",
+      "title": "【UiPath】UiPath Integration Serviceのよくある質問をまとめてみた",
       "author": "ts_saito",
       "platform": "Qiita",
       "url": "https://qiita.com/ts_saito/items/63cf3d0ba0d01f149c15",
