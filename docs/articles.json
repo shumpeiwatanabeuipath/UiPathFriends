@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21",
-  "searchWindow": "Qiita / note: 2026-02-21 - 2026-08-21; UiPath official: listed pages as of 2026-08-21",
+  "generatedAt": "2026-08-22",
+  "searchWindow": "Qiita / note: 2026-02-22 - 2026-08-22; UiPath official: listed pages as of 2026-08-22",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-0badbbe2a467a6b09c64",
+      "title": "API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた",
+      "author": "songchong",
+      "platform": "Qiita",
+      "url": "https://qiita.com/songchong/items/0badbbe2a467a6b09c64",
+      "publishedAt": "2026-08-22",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "API",
+        "RPA"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。初心者 / API / RPA"
+    },
     {
       "title": "AIとロボット、そして人の協働で自動化に革命を起こす！「UiPath for Coding Agents」と「IXP」がもたらす恩恵とは──UiPathエンジニアに聞く｜UiPath Japan",
       "author": "uipathjapan",
