@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23",
-  "searchWindow": "Qiita / note: 2026-02-23 - 2026-08-23; UiPath official: listed pages as of 2026-08-23",
+  "generatedAt": "2026-08-24",
+  "searchWindow": "Qiita / note: 2026-02-24 - 2026-08-24; UiPath official: listed pages as of 2026-08-24",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "なぜ今「FDE」なのか？AIエージェントの効果を最大化する伴走型支援｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n01738f6641d5",
+      "publishedAt": "2026-08-24",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "AIエージェントの活用を検討する企業が急増する一方、「導入すれば本当に効果が出るのか」という不安を拭えない現場も少なくありません。そうした企業の現場に自ら入り込み、伴走しながら自動化を形にしていく「FDE」という役割が、いま存在感を増しています。UiPath Japanで For",
+      "id": "note-note-com-uipathjapan-n-n01738f6641d5-2026-08-24"
+    },
+    {
+      "title": "パートナー様と一緒に成功を分かち合いたい｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n94048fabcb05",
+      "publishedAt": "2026-08-24",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathの成功は、数多くのパートナー企業様との協業の上に成り立っています。パートナーの皆様と最新の情報を共有しながら販売活動のサポートを全力で行っているのが、当社のパートナー営業本部です。 今回は、パートナー営業本部の副本部長に昇進し、主にグローバルのコンサルティングファーム",
+      "id": "note-note-com-uipathjapan-n-n94048fabcb05-2026-08-24"
+    },
     {
       "id": "qiita-0badbbe2a467a6b09c64",
       "title": "API・CSV・RPA・iPaaS・純正連携の5つを比較してみた｜「一番ラクなのはどれ？」を6つの物差しで調べた",
