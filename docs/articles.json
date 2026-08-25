@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-24",
-  "searchWindow": "Qiita / note: 2026-02-24 - 2026-08-24; UiPath official: listed pages as of 2026-08-24",
+  "generatedAt": "2026-08-25",
+  "searchWindow": "Qiita / note: 2026-02-25 - 2026-08-25; UiPath official: listed pages as of 2026-08-25",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "AIエージェント時代をつくる人材とUiPathコミュニティの理想的な関係――UiPath Community MVP 2026 選出の 6人に聞く（後編）｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n15be324178ee",
+      "publishedAt": "2026-08-25",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathコミュニティをリードするプロフェッショナルを認定するプログラム「UiPath Community MVP 2026」において、世界35ヵ国で135名のうち、日本から6人が認定されました。本ブログの前編では、自律的に業務を遂行するAIエージェント、ロボット、そして人が三",
+      "id": "note-note-com-uipathjapan-n-n15be324178ee-2026-08-25"
+    },
+    {
+      "title": "UiPathの「達人」たちがAIエージェントを推す理由―UiPath Community MVP 2026選出の 6人に聞く（前半）｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n28dcdf2bef02",
+      "publishedAt": "2026-08-25",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPath製品を活用するユーザー同士が交流し学習するUiPathコミュニティでは、メンバーが世界各国で活発に活動しています。UiPathは、コミュニティをリードするプロフェッショナルを毎年認定するMVP (Most Valuable Professional) プログラムを提供",
+      "id": "note-note-com-uipathjapan-n-n28dcdf2bef02-2026-08-25"
+    },
     {
       "title": "なぜ今「FDE」なのか？AIエージェントの効果を最大化する伴走型支援｜UiPath Japan",
       "author": "uipathjapan",
