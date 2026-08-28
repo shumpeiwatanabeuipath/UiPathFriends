@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-26",
-  "searchWindow": "Qiita / note: 2026-02-26 - 2026-08-26; UiPath official: listed pages as of 2026-08-26",
+  "generatedAt": "2026-08-28",
+  "searchWindow": "Qiita / note: 2026-02-28 - 2026-08-28; UiPath official: listed pages as of 2026-08-28",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,47 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-c905b02585fb87c85248",
+      "title": "【2026年8月調査】API・iPaaS・RPAの料金を調べてみた｜見積もりのどこが高いのか、42ツールの公開価格を3層に分けた",
+      "author": "songchong",
+      "platform": "Qiita",
+      "url": "https://qiita.com/songchong/items/c905b02585fb87c85248",
+      "publishedAt": "2026-08-28",
+      "tags": [
+        "UiPath",
+        "RPA",
+        "初心者",
+        "API"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。RPA / UiPath / 初心者"
+    },
+    {
+      "title": "エージェンティックテスティング—AIがコードを生成する時、テストはどう変わるのか｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/nc97f1a8a5cfa",
+      "publishedAt": "2026-08-28",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "先進的な開発現場では、9割以上のコードをすでにAIが書いているという。では、AIがコードを量産する時代に、品質は誰がどう保証するのか。 私がこの問いにこだわるのには、理由がある。 私はキャリアの大半を、グローバルな金融機関においてシステム開発の責任者として過ごしてきた。金融システ",
+      "id": "note-note-com-uipathjapan-n-nc97f1a8a5cfa-2026-08-28"
+    },
+    {
+      "title": "ビジネスオーケストレーションが生み出す、開発者の新たな役割──AIとロボット、そして人の協働がもたらす価値とは｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/nbfb47551d9e1",
+      "publishedAt": "2026-08-27",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "AIとロボット、人が適材適所で持ち味を発揮する“三位一体”の協働により、エンド・ツー・エンドの自動化を創出する――。この「ビジネスオーケストレーション」コンセプトを推進するため、UiPathでは、人がよりスムーズに業務を進行できるようにAIとロボットを掛け合わせたさまざまなソリュ",
+      "id": "note-note-com-uipathjapan-n-nbfb47551d9e1-2026-08-27"
+    },
     {
       "title": "AIエージェント時代をつくる人材とUiPathコミュニティの理想的な関係――UiPath Community MVP 2026 選出の 6人に聞く（後編）｜UiPath Japan",
       "author": "uipathjapan",
