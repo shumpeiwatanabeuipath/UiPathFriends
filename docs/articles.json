@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-28",
-  "searchWindow": "Qiita / note: 2026-02-28 - 2026-08-28; UiPath official: listed pages as of 2026-08-28",
+  "generatedAt": "2026-08-29",
+  "searchWindow": "Qiita / note: 2026-03-01 - 2026-08-29; UiPath official: listed pages as of 2026-08-29",
   "sources": [
     {
       "label": "Qiita",
@@ -60,6 +60,19 @@
       ],
       "summary": "AIとロボット、人が適材適所で持ち味を発揮する“三位一体”の協働により、エンド・ツー・エンドの自動化を創出する――。この「ビジネスオーケストレーション」コンセプトを推進するため、UiPathでは、人がよりスムーズに業務を進行できるようにAIとロボットを掛け合わせたさまざまなソリュ",
       "id": "note-note-com-uipathjapan-n-nbfb47551d9e1-2026-08-27"
+    },
+    {
+      "title": "本当のとこRPAはどれがいいのか_UiPath編。うーーん。｜shishow",
+      "author": "chic_moraea6018",
+      "platform": "note",
+      "url": "https://note.com/chic_moraea6018/n/n677e4c97ce8e",
+      "publishedAt": "2026-08-26",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "自分のPCにUiPathを入れてみたけれど。 入力フォームを作ってみたよ。 UiPath App Studio 飛んでるのね 新しいアプリを作成。簡単そうなやつにしてみる。 このまま保存。 キャンバスの左側にあるエレメントツリーパネル上部の[ + ]をクリック [ Process",
+      "id": "note-note-com-chic-moraea6018-n-n677e4c97ce8e-2026-08-26"
     },
     {
       "title": "AIエージェント時代をつくる人材とUiPathコミュニティの理想的な関係――UiPath Community MVP 2026 選出の 6人に聞く（後編）｜UiPath Japan",
