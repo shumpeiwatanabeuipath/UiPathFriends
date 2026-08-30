@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29",
-  "searchWindow": "Qiita / note: 2026-03-01 - 2026-08-29; UiPath official: listed pages as of 2026-08-29",
+  "generatedAt": "2026-08-30",
+  "searchWindow": "Qiita / note: 2026-03-02 - 2026-08-30; UiPath official: listed pages as of 2026-08-30",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "【第46回】業務効率化ツール（RPA×AI）の受託開発ビジネス＜Part7-4＞｜NOBUWORKS｜フォロバ100",
+      "author": "nobuworks",
+      "platform": "note",
+      "url": "https://note.com/nobuworks/n/n9180c46a1899",
+      "publishedAt": "2026-08-30",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "はじめに｜「RPA×AI」という組み合わせの重要性 Part 7-①・②ではノーコード・API活用によるツール開発、Part 7-③では企業向けコンサルティングを解説してきた。 今回はその具体的な実践形態の一つとして、RPA(Robotic Process Automation)",
+      "id": "note-note-com-nobuworks-n-n9180c46a1899-2026-08-30"
+    },
     {
       "title": "【UiPath（PATH）銘柄分析】RPA×生成AIで劇的変化！業績黒字化と超大口顧客急増が示す株価45〜52ドルへの潜在能力_712｜whereverjp",
       "author": "dote_taro",
