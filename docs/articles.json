@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30",
-  "searchWindow": "Qiita / note: 2026-03-02 - 2026-08-30; UiPath official: listed pages as of 2026-08-30",
+  "generatedAt": "2026-08-31",
+  "searchWindow": "Qiita / note: 2026-03-03 - 2026-08-31; UiPath official: listed pages as of 2026-08-31",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "RPA初心者は何から勉強すればいい？迷わないための学習順番を解説｜RPAエンジニア会社員",
+      "author": "rpa_engineer",
+      "platform": "note",
+      "url": "https://note.com/rpa_engineer/n/nb99309293fd0",
+      "publishedAt": "2026-08-31",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "「RPAに興味がある」 「プログラミング未経験でも始められることは分かった」 でも、次に出てくるのが、 「じゃあ、何から勉強すればいいの？」 という疑問ではないでしょうか。 RPAについて調べてみると、 Excel プログラミング IT基礎 RPAツール データベース SQL V",
+      "id": "note-note-com-rpa-engineer-n-nb99309293fd0-2026-08-31"
+    },
     {
       "title": "【第46回】業務効率化ツール（RPA×AI）の受託開発ビジネス＜Part7-4＞｜NOBUWORKS｜フォロバ100",
       "author": "nobuworks",
