@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01",
-  "searchWindow": "Qiita / note: 2026-03-01 - 2026-09-01; UiPath official: listed pages as of 2026-09-01",
+  "generatedAt": "2026-09-02",
+  "searchWindow": "Qiita / note: 2026-03-02 - 2026-09-02; UiPath official: listed pages as of 2026-09-02",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "【Podcast】 UiPathの18.6ドルは割安か?決算前に確認したいこと｜外資系の二海さん",
+      "author": "aspd",
+      "platform": "note",
+      "url": "https://note.com/aspd/n/n9d57e93f85b3",
+      "publishedAt": "2026-09-03",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "この記事は、Podcastでお話しした内容を、note向けに読みやすく再構成したものです。 個人的には３ヶ月前に同様の分析をして、当時はUiPathがだいぶ割安なのがわかったので、$9後半のレンジでエントリーし、現在ほぼ倍になったのでだいぶhappyです。 今回は、企業向け自動化",
+      "id": "note-note-com-aspd-n-n9d57e93f85b3-2026-09-03"
+    },
     {
       "title": "AIで成果が出ないという課題に“解”を示すビジネスオーケストレーション｜UiPath Japan",
       "author": "uipathjapan",
