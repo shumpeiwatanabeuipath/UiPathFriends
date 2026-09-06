@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-05",
-  "searchWindow": "Qiita / note: 2026-03-05 - 2026-09-05; UiPath official: listed pages as of 2026-09-05",
+  "generatedAt": "2026-09-06",
+  "searchWindow": "Qiita / note: 2026-03-06 - 2026-09-06; UiPath official: listed pages as of 2026-09-06",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "「AIを使わない自動化」が売れる。UiPath決算に見る企業のAI活用の今｜米国株決算マン2世(米国企業決算から見るビジネス最前線)",
+      "author": "kessanman",
+      "platform": "note",
+      "url": "https://note.com/kessanman/n/n955b81efab21",
+      "publishedAt": "2026-09-04",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathは業務自動化のプラットフォームを提供するソフトウェア企業です。創業者のダニエル・ダインズCEOが経営を率いています。ダインズCEOによれば、同社はこの2年間でプラットフォームを業務オーケストレーション、エージェント、ソフトウェアテストの3領域を軸に再構築しました。 同",
+      "id": "note-note-com-kessanman-n-n955b81efab21-2026-09-04"
+    },
     {
       "title": "【Podcast】 UiPathの18.6ドルは割安か?決算前に確認したいこと｜外資系の二海さん",
       "author": "aspd",
