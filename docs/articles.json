@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-07",
-  "searchWindow": "Qiita / note: 2026-03-07 - 2026-09-07; UiPath official: listed pages as of 2026-09-07",
+  "generatedAt": "2026-09-08",
+  "searchWindow": "Qiita / note: 2026-03-08 - 2026-09-08; UiPath official: listed pages as of 2026-09-08",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "有償RPAの年140万円を削るため、泥臭くPythonに置き換えた話｜k-chan",
+      "author": "efficiency_30",
+      "platform": "note",
+      "url": "https://note.com/efficiency_30/n/nacae4ded175c",
+      "publishedAt": "2026-09-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "こんにちは、k-chanです。 業務自動化チームで、目の前にある有償RPAツールのライセンス更新の見積書を見たとき、私は思わず電卓を叩き直しました。 年間約140万円。 未経験からこのチームに異動してきて、それまで当たり前のように動いていたシステムの維持費が、急にズシリと重く感じ",
+      "id": "note-note-com-efficiency-30-n-nacae4ded175c-2026-09-08"
+    },
     {
       "title": "「AIを使わない自動化」が売れる。UiPath決算に見る企業のAI活用の今｜米国株決算マン2世(米国企業決算から見るビジネス最前線)",
       "author": "kessanman",
