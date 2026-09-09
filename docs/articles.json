@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08",
-  "searchWindow": "Qiita / note: 2026-03-08 - 2026-09-08; UiPath official: listed pages as of 2026-09-08",
+  "generatedAt": "2026-09-09",
+  "searchWindow": "Qiita / note: 2026-03-09 - 2026-09-09; UiPath official: listed pages as of 2026-09-09",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "自動化を次のステージへ業務全体を最適化するビジネスオーケストレーション｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n780d341ba5b2",
+      "publishedAt": "2026-09-09",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPath Japanで Forward Deployed Engineering（FDE）本部とプロフェッショナルサービス本部の両部門を率いる衞藤圭 執行役員・本部長は、技術者としてキャリアをスタートし、お客様の現場に深く入り込みながら、リーダーのポジションへと歩みを進めてき",
+      "id": "note-note-com-uipathjapan-n-n780d341ba5b2-2026-09-09"
+    },
+    {
+      "title": "月10回落ちていたRPAを、たった1つの工夫で月2回にした話｜RPA ログ｜k-chan",
+      "author": "efficiency_30",
+      "platform": "note",
+      "url": "https://note.com/efficiency_30/n/neba0228acde8",
+      "publishedAt": "2026-09-09",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "こんにちは、k-chanです。 毎朝、パソコンを立ち上げた瞬間に「実行失敗」の赤い通知が目に飛び込んでくる。それだけで、朝のコーヒーが少し苦く感じます。 業務自動化のチームに来てから、私もそんな「毎日落ちるRPA」とずいぶん格闘してきました。特に人事系の日次データを扱う処理は、ち",
+      "id": "note-note-com-efficiency-30-n-neba0228acde8-2026-09-09"
+    },
     {
       "title": "有償RPAの年140万円を削るため、泥臭くPythonに置き換えた話｜k-chan",
       "author": "efficiency_30",
