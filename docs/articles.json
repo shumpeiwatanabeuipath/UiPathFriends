@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-13",
-  "searchWindow": "Qiita / note: 2026-03-13 - 2026-09-13; UiPath official: listed pages as of 2026-09-13",
+  "generatedAt": "2026-09-14",
+  "searchWindow": "Qiita / note: 2026-03-14 - 2026-09-14; UiPath official: listed pages as of 2026-09-14",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPath Agent Builderで始めるAI判断×RPA業務自動化｜ai_agent_zukan",
+      "author": "ai_agent_zukan",
+      "platform": "note",
+      "url": "https://note.com/ai_agent_zukan/n/nde036f67c4cb",
+      "publishedAt": "2026-09-14",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "こういった経験ないですか？ 問い合わせメールの内容を読んで、担当部署を判断して振り分ける作業に時間がかかる 請求書や申請書の内容は毎回少しずつ違い、RPAだけでは例外処理が止まりやすい SAP、ブラウザ、社内の古い業務システムをまたぐため、手作業で転記している APIがないシステ",
+      "id": "note-note-com-ai-agent-zukan-n-nde036f67c4cb-2026-09-14"
+    },
+    {
+      "title": "UiPathからノベルティが届いた！可愛すぎて全部並べたくなった話｜Komi Lab.",
+      "author": "komilab",
+      "platform": "note",
+      "url": "https://note.com/komilab/n/na93bbc6c292e",
+      "publishedAt": "2026-09-13",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "UiPathのブログチャレンジに参加したら、UiPathのグッズ販売サイトで使える50ドル分のバウチャーをもらえて、公式の通販サイトから好きなグッズを選んで買えることに。 ■ UiPath Gift Shop uipath.bamkostores.com そんなことあるのー！！？",
+      "id": "note-note-com-komilab-n-na93bbc6c292e-2026-09-13"
+    },
     {
       "title": "自動化を次のステージへ、業務全体を最適化するビジネスオーケストレーション｜UiPath Japan",
       "author": "uipathjapan",
