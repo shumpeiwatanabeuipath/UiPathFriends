@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21",
-  "searchWindow": "Qiita / note: 2026-03-21 - 2026-09-21; UiPath official: listed pages as of 2026-09-21",
+  "generatedAt": "2026-09-22",
+  "searchWindow": "Qiita / note: 2026-03-22 - 2026-09-22; UiPath official: listed pages as of 2026-09-22",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-1a0b41c0901afb1cf062",
+      "title": "UI操作の自動化の主要な要素",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/1a0b41c0901afb1cf062",
+      "publishedAt": "2026-09-22",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
     {
       "title": "UiPath Agent Builderで始めるAI判断×RPA業務自動化｜ai_agent_zukan",
       "author": "ai_agent_zukan",
