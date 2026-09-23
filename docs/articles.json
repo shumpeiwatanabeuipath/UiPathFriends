@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22",
-  "searchWindow": "Qiita / note: 2026-03-22 - 2026-09-22; UiPath official: listed pages as of 2026-09-22",
+  "generatedAt": "2026-09-23",
+  "searchWindow": "Qiita / note: 2026-03-23 - 2026-09-23; UiPath official: listed pages as of 2026-09-23",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-080cc7f6d2c1655d4c5c",
+      "title": "【UiPath】入力メソッド・出力メソッドについて",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/080cc7f6d2c1655d4c5c",
+      "publishedAt": "2026-09-23",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
     {
       "id": "qiita-1a0b41c0901afb1cf062",
       "title": "UI操作の自動化の主要な要素",
