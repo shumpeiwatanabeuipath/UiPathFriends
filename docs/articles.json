@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23",
-  "searchWindow": "Qiita / note: 2026-03-23 - 2026-09-23; UiPath official: listed pages as of 2026-09-23",
+  "generatedAt": "2026-09-24",
+  "searchWindow": "Qiita / note: 2026-03-24 - 2026-09-24; UiPath official: listed pages as of 2026-09-24",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,55 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-6e31bf1b8d968c054af3",
+      "title": "【UiPath FUSION 2026】製品基調講演レポ 後編：「午後半日の設定」で始まる UiPath Solutions と、テストが勝手に走る Dark Testing Factory！！",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/6e31bf1b8d968c054af3",
+      "publishedAt": "2026-09-24",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-10135455f6131fdacf4b",
+      "title": "【UiPath FUSION 2026】製品基調講演レポ 前編：「最難問は AI モデル選びじゃない」Cartographer GA と、coding agent が1時間で組んだ Maestro Case！！",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/10135455f6131fdacf4b",
+      "publishedAt": "2026-09-24",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-de8fc3600aec0e1ad493",
+      "title": "【UiPath FUSION 2026】基調講演 顧客パネル編: SMBC の「600万時間・3,000人・AI by Design」と Mayo Clinic / Medline / USAA の本音",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/de8fc3600aec0e1ad493",
+      "publishedAt": "2026-09-24",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-b4c1eb4cb6650e0ca043",
+      "title": "【UiPath FUSION 2026】基調講演レポ前半！Cassie Kozyrkov と Daniel Dines の Vision、自分との差分を測ってみた",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/b4c1eb4cb6650e0ca043",
+      "publishedAt": "2026-09-24",
+      "tags": [
+        "UiPath",
+        "fusion"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / fusion"
+    },
     {
       "id": "qiita-080cc7f6d2c1655d4c5c",
       "title": "【UiPath】入力メソッド・出力メソッドについて",
