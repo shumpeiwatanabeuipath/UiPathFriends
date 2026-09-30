@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29",
-  "searchWindow": "Qiita / note: 2026-03-29 - 2026-09-29; UiPath official: listed pages as of 2026-09-29",
+  "generatedAt": "2026-09-30",
+  "searchWindow": "Qiita / note: 2026-03-30 - 2026-09-30; UiPath official: listed pages as of 2026-09-30",
   "sources": [
     {
       "label": "Qiita",
@@ -161,6 +161,21 @@
         "初心者向け"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
+    {
+      "id": "qiita-407bea54bc4fccb45c7a",
+      "title": "【UiPath】DLLファイル署名によるWDAC環境下でのRPA実行",
+      "author": "hidecha",
+      "platform": "Qiita",
+      "url": "https://qiita.com/hidecha/items/407bea54bc4fccb45c7a",
+      "publishedAt": "2026-09-16",
+      "tags": [
+        "UiPath",
+        "UiPathStudio",
+        "RPA",
+        "WindowsDefender"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathStudio / RPA"
     },
     {
       "title": "UiPath Agent Builderで始めるAI判断×RPA業務自動化｜ai_agent_zukan",
