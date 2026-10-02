@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01",
-  "searchWindow": "Qiita / note: 2026-04-01 - 2026-10-01; UiPath official: listed pages as of 2026-10-01",
+  "generatedAt": "2026-10-02",
+  "searchWindow": "Qiita / note: 2026-04-02 - 2026-10-02; UiPath official: listed pages as of 2026-10-02",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "「できるUiPath 実践RPA」ハンズオン用サイトの公開終了と代替プログラムのご案内",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/community-blog/knowledge-base/notice-of-discontinuation-of-the-hands-on-site",
+      "publishedAt": "2026-10-02",
+      "tags": [
+        "Community Blog",
+        "UiPath"
+      ],
+      "summary": "インプレス社の書籍「できるUiPath 実践RPA」で紹介しているハンズオン用サイト（expense-demo.com）の公開を終了しました。引き続きハンズオンを行いたい方向けに、同じ動作をするローカルプログラムを配布しています。",
+      "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-notice-of-discontinuation-of-the-2026-10-02"
+    },
     {
       "id": "qiita-127dc673349b5e57aedd",
       "title": "【UiPath FUSION 2026】2日目基調講演 パネル編：「エージェントが暴れたら、犬の飼い主は誰？」Kate Darling × Raghu Malpani の30分",
@@ -3050,6 +3063,19 @@
       ],
       "summary": "はじめに このnoteは「UiPath Advent Calendar 2025」の12月11日の投稿です https://qiita.com/advent-calendar/2025/uipath 今回でUiPathの年末アドベントカレンダーは3回目の投稿📝📝📝 夏はサボ",
       "id": "note-note-com-steve-tanaka-n-n30a6440e5018-2025-12-11"
+    },
+    {
+      "title": "Robot→Orchestrator 接続時のプロキシ設定",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/community-blog/knowledge-base/robot-orchestrator-proxy-configuration-v202210",
+      "publishedAt": "2025-11-18",
+      "tags": [
+        "Community Blog",
+        "UiPath"
+      ],
+      "summary": "本文書では UiPath Robot から Orchestrator(Automation Cloud またはオンプレミス)に接続する際のプロキシ設定について環境パターンごとに解説しております。",
+      "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-robot-orchestrator-proxy-configu-2025-11-18"
     },
     {
       "title": "生成AIからビジネス価値を刈り取る方法",
