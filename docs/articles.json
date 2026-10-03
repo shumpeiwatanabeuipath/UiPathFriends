@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02",
-  "searchWindow": "Qiita / note: 2026-04-02 - 2026-10-02; UiPath official: listed pages as of 2026-10-02",
+  "generatedAt": "2026-10-03",
+  "searchWindow": "Qiita / note: 2026-04-03 - 2026-10-03; UiPath official: listed pages as of 2026-10-03",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-b60e1707b5e49fa377b1",
+      "title": "【UiPath初心者】UI Explorerとは",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/b60e1707b5e49fa377b1",
+      "publishedAt": "2026-10-03",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
+    {
+      "id": "qiita-c5320e443fc2692d2e29",
+      "title": "【UiPath初心者】セレクターの調整",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/c5320e443fc2692d2e29",
+      "publishedAt": "2026-10-03",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
     {
       "title": "「できるUiPath 実践RPA」ハンズオン用サイトの公開終了と代替プログラムのご案内",
       "author": "UiPath Inc.",
