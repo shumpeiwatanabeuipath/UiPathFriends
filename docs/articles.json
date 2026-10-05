@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-04",
-  "searchWindow": "Qiita / note: 2026-04-04 - 2026-10-04; UiPath official: listed pages as of 2026-10-04",
+  "generatedAt": "2026-10-05",
+  "searchWindow": "Qiita / note: 2026-04-05 - 2026-10-05; UiPath official: listed pages as of 2026-10-05",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,36 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-aa04c10ac10f9fce85a6",
+      "title": "RPAエンジニアだった自分のSalesforce学習奮闘記②～画面フロー条件分岐編(Boolean編)～",
+      "author": "saosao885",
+      "platform": "Qiita",
+      "url": "https://qiita.com/saosao885/items/aa04c10ac10f9fce85a6",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "UiPath",
+        "Salesforce",
+        "Salesforce開発メモ",
+        "画面フロー"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。Salesforce / Salesforce開発メモ / 画面フロー"
+    },
+    {
+      "id": "qiita-e8b8c54282b2d950d8dd",
+      "title": "RPAエンジニアだった自分のSalesforce学習奮闘記①～画面フロー割り当て編～",
+      "author": "saosao885",
+      "platform": "Qiita",
+      "url": "https://qiita.com/saosao885/items/e8b8c54282b2d950d8dd",
+      "publishedAt": "2026-10-05",
+      "tags": [
+        "UiPath",
+        "Salesforce",
+        "Salesforce開発メモ",
+        "画面フロー"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。Salesforce / Salesforce開発メモ / 画面フロー"
+    },
     {
       "id": "qiita-b60e1707b5e49fa377b1",
       "title": "【UiPath初心者】UI Explorerとは",
