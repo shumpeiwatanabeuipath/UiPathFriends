@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05",
-  "searchWindow": "Qiita / note: 2026-04-05 - 2026-10-05; UiPath official: listed pages as of 2026-10-05",
+  "generatedAt": "2026-10-06",
+  "searchWindow": "Qiita / note: 2026-04-06 - 2026-10-06; UiPath official: listed pages as of 2026-10-06",
   "sources": [
     {
       "label": "Qiita",
@@ -1310,6 +1310,21 @@
       ],
       "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) このnoteでは、2026年6月24日(水)～26日(金) までスペイン・マドリードで開催される「UiPath Global MVP Summit 2026」についてご紹介します。 以前、2024年にイン",
       "id": "note-note-com-shumpei-w-n-nb99d566af60f-2026-06-22"
+    },
+    {
+      "id": "qiita-ff82a282029ac03b2c78",
+      "title": "Azure PipelinesとUiPath CLIでUiPathプロジェクトのCI/CD環境を構築する",
+      "author": "mstgsg",
+      "platform": "Qiita",
+      "url": "https://qiita.com/mstgsg/items/ff82a282029ac03b2c78",
+      "publishedAt": "2026-06-22",
+      "tags": [
+        "UiPath",
+        "CLI",
+        "CICD",
+        "AzurePipelines"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。CLI / UiPath / CICD"
     },
     {
       "title": "UiPath｜アクティビティ｜Excel｜Run Spreadsheet Macro｜Excelマクロ実行と戻り値の扱い｜Parusの寺小屋",
