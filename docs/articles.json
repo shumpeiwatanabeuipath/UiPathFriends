@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06",
-  "searchWindow": "Qiita / note: 2026-04-06 - 2026-10-06; UiPath official: listed pages as of 2026-10-06",
+  "generatedAt": "2026-10-07",
+  "searchWindow": "Qiita / note: 2026-04-07 - 2026-10-07; UiPath official: listed pages as of 2026-10-07",
   "sources": [
     {
       "label": "Qiita",
@@ -90,6 +90,21 @@
       ],
       "summary": "インプレス社の書籍「できるUiPath 実践RPA」で紹介しているハンズオン用サイト（expense-demo.com）の公開を終了しました。引き続きハンズオンを行いたい方向けに、同じ動作をするローカルプログラムを配布しています。",
       "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-notice-of-discontinuation-of-the-2026-10-02"
+    },
+    {
+      "id": "qiita-78a175796f0f9c9093b6",
+      "title": "【UiPath】macOS版 Studio Desktop インストール手順",
+      "author": "hidecha",
+      "platform": "Qiita",
+      "url": "https://qiita.com/hidecha/items/78a175796f0f9c9093b6",
+      "publishedAt": "2026-10-02",
+      "tags": [
+        "UiPath",
+        "UiPathStudio",
+        "Mac",
+        "RPA"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiPathStudio / Mac"
     },
     {
       "id": "qiita-127dc673349b5e57aedd",
