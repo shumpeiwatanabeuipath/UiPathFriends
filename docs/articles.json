@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09",
-  "searchWindow": "Qiita / note: 2026-04-09 - 2026-10-09; UiPath official: listed pages as of 2026-10-09",
+  "generatedAt": "2026-10-10",
+  "searchWindow": "Qiita / note: 2026-04-10 - 2026-10-10; UiPath official: listed pages as of 2026-10-10",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-9ac52c3303eb0c510e37",
+      "title": "【UiPath初心者】セレクター/アンカーの信頼性の検証",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/9ac52c3303eb0c510e37",
+      "publishedAt": "2026-10-10",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
     {
       "id": "qiita-62f46a6bcfb9d90f06f5",
       "title": "【UiPath初心者】ターゲットメソッドの種類",
