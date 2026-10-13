@@ -21,6 +21,30 @@
   ],
   "articles": [
     {
+      "id": "qiita-0460170096b4d456ed1f",
+      "title": "【UiPath FUSION 2026】96 日が 19 日に！！「雑用は全部エージェント、判断は全部人間」自動化プログラムを coding agents に回させるパイプラインを見てきた",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/0460170096b4d456ed1f",
+      "publishedAt": "2026-10-13",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-5014a5c227b602398d40",
+      "title": "【UiPath FUSION 2026】Cartographer 分科会レポ：「Generated, not written」！！PDD も SDD も「書く」んじゃなくて Map から「生成する」時代が来た",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/5014a5c227b602398d40",
+      "publishedAt": "2026-10-13",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
       "id": "qiita-9ac52c3303eb0c510e37",
       "title": "【UiPath初心者】セレクター/アンカーの信頼性の検証",
       "author": "Satsuma_Age",
