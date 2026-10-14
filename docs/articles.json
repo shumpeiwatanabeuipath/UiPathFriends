@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13",
-  "searchWindow": "Qiita / note: 2026-04-13 - 2026-10-13; UiPath official: listed pages as of 2026-10-13",
+  "generatedAt": "2026-10-14",
+  "searchWindow": "Qiita / note: 2026-04-14 - 2026-10-14; UiPath official: listed pages as of 2026-10-14",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-afe0700298c2fad82983",
+      "title": "【UiPath FUSION 2026】51 ページの PDD を Autopilot に渡して、PR レビューも失敗調査も Claude Code に回す！！「Building is one of the jobs, not the job」",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/afe0700298c2fad82983",
+      "publishedAt": "2026-10-14",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
     {
       "id": "qiita-0460170096b4d456ed1f",
       "title": "【UiPath FUSION 2026】96 日が 19 日に！！「雑用は全部エージェント、判断は全部人間」自動化プログラムを coding agents に回させるパイプラインを見てきた",
