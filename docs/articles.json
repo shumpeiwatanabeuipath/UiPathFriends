@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14",
-  "searchWindow": "Qiita / note: 2026-04-14 - 2026-10-14; UiPath official: listed pages as of 2026-10-14",
+  "generatedAt": "2026-10-15",
+  "searchWindow": "Qiita / note: 2026-04-15 - 2026-10-15; UiPath official: listed pages as of 2026-10-15",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,30 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-413b4d38ca653e0e9548",
+      "title": "【UiPath FUSION 2026】オンプレ勢に朗報！！Automation Suite 2.2610 LTS(12 月)で Linux 版にもエージェント機能が全部来る。Helm チャート、GUI インストール、BYO Kubernetes も",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/413b4d38ca653e0e9548",
+      "publishedAt": "2026-10-15",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-7976ac1f3b2c01927dfa",
+      "title": "【UiPath FUSION 2026】運用と障害対応も Coding Agent に！！Autopilot in Orchestrator 初公開と「Autopilot はあなたのブラウザの中で動いてる」の話",
+      "author": "Hash1mo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Hash1mo/items/7976ac1f3b2c01927dfa",
+      "publishedAt": "2026-10-15",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
     {
       "id": "qiita-afe0700298c2fad82983",
       "title": "【UiPath FUSION 2026】51 ページの PDD を Autopilot に渡して、PR レビューも失敗調査も Claude Code に回す！！「Building is one of the jobs, not the job」",
