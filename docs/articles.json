@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15",
-  "searchWindow": "Qiita / note: 2026-04-15 - 2026-10-15; UiPath official: listed pages as of 2026-10-15",
+  "generatedAt": "2026-10-16",
+  "searchWindow": "Qiita / note: 2026-04-16 - 2026-10-16; UiPath official: listed pages as of 2026-10-16",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-012da02218b47dd06c87",
+      "title": "【UiPath初心者】ログレベルの種類と用途　~ FatalからVerboseまで ~",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/012da02218b47dd06c87",
+      "publishedAt": "2026-10-16",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "初心者向け"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 初心者 / 初心者向け"
+    },
     {
       "id": "qiita-413b4d38ca653e0e9548",
       "title": "【UiPath FUSION 2026】オンプレ勢に朗報！！Automation Suite 2.2610 LTS(12 月)で Linux 版にもエージェント機能が全部来る。Helm チャート、GUI インストール、BYO Kubernetes も",
