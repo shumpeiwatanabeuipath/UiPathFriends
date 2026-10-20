@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19",
-  "searchWindow": "Qiita / note: 2026-04-19 - 2026-10-19; UiPath official: listed pages as of 2026-10-19",
+  "generatedAt": "2026-10-20",
+  "searchWindow": "Qiita / note: 2026-04-20 - 2026-10-20; UiPath official: listed pages as of 2026-10-20",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-4852fa252c63fdb76676",
+      "title": "UiPathでPeopleSoftの画面を操作するのと比べてどうですか？",
+      "author": "itmemo",
+      "platform": "Qiita",
+      "url": "https://qiita.com/itmemo/items/4852fa252c63fdb76676",
+      "publishedAt": "2026-10-20",
+      "tags": [
+        "UiPath",
+        "PeopleSoft"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。PeopleSoft"
+    },
     {
       "id": "qiita-63716217ae73a900f0fb",
       "title": "【UiPath初心者】ロボット実行ログを確認する方法",
