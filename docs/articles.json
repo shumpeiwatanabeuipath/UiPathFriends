@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24",
-  "searchWindow": "Qiita / note: 2026-04-24 - 2026-10-24; UiPath official: listed pages as of 2026-10-24",
+  "generatedAt": "2026-10-25",
+  "searchWindow": "Qiita / note: 2026-04-25 - 2026-10-25; UiPath official: listed pages as of 2026-10-25",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "Maestro Automate チャレンジ - 業務を説明してワークフローを作ってみよう！",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/community-blog/community-news/maestro-automate-challenge",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "Community Blog",
+        "UiPath"
+      ],
+      "summary": "全世界でミニハッカソン - Agents at Work: Maestro Automate チャレンジが始まりました。 テーマは、コーディングエージェントと一緒に、実際に動くワークフローを作ること。この記事でチャレンジの内容と参加方法をご紹介します。",
+      "id": "uipath-www-uipath-com-ja-community-blog-community-news-maestro-automate-challenge-2026-10-26"
+    },
     {
       "id": "qiita-a8dc260ce0547b476f9e",
       "title": "PeopleSoft Component Interface(CI)はUiPathで画面を操作するのと比べてどうですか？",
@@ -2183,6 +2196,19 @@
       ],
       "summary": "UiPathユーザー企業出身の早坂氏が、プリセールスとして顧客課題を見極め最適解を提案する役割や、エージェンティックオートメーションが拓く自動化の未来について語った内容をまとめたインタビューです。",
       "id": "uipath-www-uipath-com-ja-blog-uipath-japan-story-hayasaka01-2026-04-14"
+    },
+    {
+      "title": "従来のOutlook（クラシックOutlook）廃止に係るMicrosoft365アクティビティへの移行について",
+      "author": "UiPath Inc.",
+      "platform": "UiPath公式",
+      "url": "https://www.uipath.com/ja/community-blog/knowledge-base/migration-to-microsoft-365-activities",
+      "publishedAt": "2026-04-10",
+      "tags": [
+        "Community Blog",
+        "UiPath"
+      ],
+      "summary": "本記事では「従来のOutlook（クラシックOutlook）廃止に係るMicrosoft365アクティビティへの移行について」紹介します。",
+      "id": "uipath-www-uipath-com-ja-community-blog-knowledge-base-migration-to-microsoft-365-activ-2026-04-10"
     },
     {
       "id": "qiita-dccd45bb981e848549cc",
