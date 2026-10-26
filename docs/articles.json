@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25",
-  "searchWindow": "Qiita / note: 2026-04-25 - 2026-10-25; UiPath official: listed pages as of 2026-10-25",
+  "generatedAt": "2026-10-26",
+  "searchWindow": "Qiita / note: 2026-04-26 - 2026-10-26; UiPath official: listed pages as of 2026-10-26",
   "sources": [
     {
       "label": "Qiita",
@@ -32,6 +32,36 @@
       ],
       "summary": "全世界でミニハッカソン - Agents at Work: Maestro Automate チャレンジが始まりました。 テーマは、コーディングエージェントと一緒に、実際に動くワークフローを作ること。この記事でチャレンジの内容と参加方法をご紹介します。",
       "id": "uipath-www-uipath-com-ja-community-blog-community-news-maestro-automate-challenge-2026-10-26"
+    },
+    {
+      "id": "qiita-a1da2f4f18e7702b7816",
+      "title": "AIエージェントはテスト業務をどこまで任せられる？UiPath Delegate for Testingを試してみた",
+      "author": "Jun96427231",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Jun96427231/items/a1da2f4f18e7702b7816",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "UiPath",
+        "AIエージェント",
+        "Delegate",
+        "ComputerUse"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。AIエージェント / UiPath / Delegate"
+    },
+    {
+      "id": "qiita-53a805ec36ae5e1b3f76",
+      "title": "コーディングエージェントはテスト開発をどこまでやってくれるの？ 一連の工程を試してみた",
+      "author": "Jun96427231",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Jun96427231/items/53a805ec36ae5e1b3f76",
+      "publishedAt": "2026-10-26",
+      "tags": [
+        "UiPath",
+        "コーディングエージェント",
+        "UiPathTestCloud",
+        "autopilot"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。コーディングエージェント / UiPath / UiPathTestCloud"
     },
     {
       "id": "qiita-a8dc260ce0547b476f9e",
