@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26",
-  "searchWindow": "Qiita / note: 2026-04-26 - 2026-10-26; UiPath official: listed pages as of 2026-10-26",
+  "generatedAt": "2026-10-27",
+  "searchWindow": "Qiita / note: 2026-04-27 - 2026-10-27; UiPath official: listed pages as of 2026-10-27",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,21 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-da036b0b7932747db04d",
+      "title": "【UiPath】「PowerShellを呼び出し」がここにきて便利なんじゃないか考察",
+      "author": "Kajiita",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Kajiita/items/da036b0b7932747db04d",
+      "publishedAt": "2026-10-27",
+      "tags": [
+        "UiPath",
+        "PowerShell",
+        "Studio",
+        "スクリプト"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / PowerShell / Studio"
+    },
     {
       "title": "Maestro Automate チャレンジ - 業務を説明してワークフローを作ってみよう！",
       "author": "UiPath Inc.",
