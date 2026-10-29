@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28",
-  "searchWindow": "Qiita / note: 2026-04-28 - 2026-10-28; UiPath official: listed pages as of 2026-10-28",
+  "generatedAt": "2026-10-29",
+  "searchWindow": "Qiita / note: 2026-04-29 - 2026-10-29; UiPath official: listed pages as of 2026-10-29",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-a37c3a8704b80b7851e2",
+      "title": "【UiPath Automation Developer Professional】REFrameworkの概要",
+      "author": "Satsuma_Age",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Satsuma_Age/items/a37c3a8704b80b7851e2",
+      "publishedAt": "2026-10-29",
+      "tags": [
+        "UiPath",
+        "試験対策"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 試験対策"
+    },
     {
       "id": "qiita-da036b0b7932747db04d",
       "title": "【UiPath】「PowerShellを呼び出し」がここにきて便利なんじゃないか考察",
