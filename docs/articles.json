@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03",
-  "searchWindow": "Qiita / note: 2026-05-03 - 2026-11-03; UiPath official: listed pages as of 2026-11-03",
+  "generatedAt": "2026-11-04",
+  "searchWindow": "Qiita / note: 2026-05-04 - 2026-11-04; UiPath official: listed pages as of 2026-11-04",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,31 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-fc7a23bc9d950b4a521d",
+      "title": "【UiPath】Excelの「範囲を読み込み」や「セルの値を読み込み」は存在しないシートを指定してもエラーにならない",
+      "author": "Davoi",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Davoi/items/fc7a23bc9d950b4a521d",
+      "publishedAt": "2026-11-05",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
+    {
+      "id": "qiita-fabb1420b6127f30baef",
+      "title": "UiPath Robotの種類",
+      "author": "hamam",
+      "platform": "Qiita",
+      "url": "https://qiita.com/hamam/items/fabb1420b6127f30baef",
+      "publishedAt": "2026-11-04",
+      "tags": [
+        "UiPath",
+        "Robot"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / Robot"
+    },
     {
       "id": "qiita-a37c3a8704b80b7851e2",
       "title": "【UiPath Automation Developer Professional】REFrameworkの概要",
