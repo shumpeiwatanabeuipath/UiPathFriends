@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05",
-  "searchWindow": "Qiita / note: 2026-05-05 - 2026-11-05; UiPath official: listed pages as of 2026-11-05",
+  "generatedAt": "2026-11-06",
+  "searchWindow": "Qiita / note: 2026-05-06 - 2026-11-06; UiPath official: listed pages as of 2026-11-06",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "RPA未経験で転職、3年目でマネージャーに。RPA事業部での成長とキャリア｜株式会社ライトカフェ 公式note",
+      "author": "lightcafe_press",
+      "platform": "note",
+      "url": "https://note.com/lightcafe_press/n/nc817931ff083",
+      "publishedAt": "2026-11-06",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "こんにちは！ RPA事業部でグループマネージャー（GM）をしているAです。 前職では、IT業界でシステム開発に携わっていました。 その後、ライトカフェに転職し、手探りで走り続けて今年で3年目。 現在はGMとしてチームの統括を任せていただいています！ 「長年の開発経験を活かしつつ、",
+      "id": "note-note-com-lightcafe-press-n-nc817931ff083-2026-11-06"
+    },
     {
       "id": "qiita-fc7a23bc9d950b4a521d",
       "title": "【UiPath】Excelの「範囲を読み込み」や「セルの値を読み込み」は存在しないシートを指定してもエラーにならない",
