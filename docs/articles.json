@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06",
-  "searchWindow": "Qiita / note: 2026-05-06 - 2026-11-06; UiPath official: listed pages as of 2026-11-06",
+  "generatedAt": "2026-11-07",
+  "searchWindow": "Qiita / note: 2026-05-07 - 2026-11-07; UiPath official: listed pages as of 2026-11-07",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,34 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-3dc8a7406b44620ca663",
+      "title": "【UiPath】開発時の問題について自分なりに調べてみた",
+      "author": "tansk_12",
+      "platform": "Qiita",
+      "url": "https://qiita.com/tansk_12/items/3dc8a7406b44620ca663",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "UiPath",
+        "初心者",
+        "メモ",
+        "UiPathStudio"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。初心者 / メモ / UiPath"
+    },
+    {
+      "title": "保有銘柄、全部さらします①｜投信3本と米国株の\"持つ理由\"｜「空と資産のフライトログ」",
+      "author": "sora_shisan_log",
+      "platform": "note",
+      "url": "https://note.com/sora_shisan_log/n/n8e5b59ad2da6",
+      "publishedAt": "2026-11-07",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "はじめまして、の第2回です。第1回で「現在地1,610万円」を公開しました。今回は、保有銘柄の「なぜ持っているか」を整理します。売買の推奨ではありません。一個人の運用記録です。 現在地の再確認（2026-11-07時点） • 金融資産：15,126,964円（評価損益 +2,52",
+      "id": "note-note-com-sora-shisan-log-n-n8e5b59ad2da6-2026-11-07"
+    },
     {
       "title": "RPA未経験で転職、3年目でマネージャーに。RPA事業部での成長とキャリア｜株式会社ライトカフェ 公式note",
       "author": "lightcafe_press",
