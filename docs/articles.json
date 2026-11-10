@@ -21,6 +21,32 @@
   ],
   "articles": [
     {
+      "title": "気になるNEWS｜ボルガレナ｜葛西",
+      "author": "hozumi_x",
+      "platform": "note",
+      "url": "https://note.com/hozumi_x/n/n4a476383079d",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "Amazon Primeで攻殻機動隊の原作マンガに近いアニメを仕事中に流しておりますが、エピソード9で耳に入った「ボルガレナ」の言葉に一瞬手が止まりました。でましたな、ボルガレナですぞ。 ボルガレナに関して詳しく知りたくなった方は、以下のnote記事をご参照ください。 今回の攻殻",
+      "id": "note-note-com-hozumi-x-n-n4a476383079d-2026-11-10"
+    },
+    {
+      "title": "THE END OF MANUAL WORK手入力をなくせ。AI・RPA・自動化で実現する次世代の業務改革ムリ・ムダ・ムラを徹底排除し、人間が本当に価値を生む仕事に集中するための完全実践ガイド｜VisionCraft",
+      "author": "bushido_data888",
+      "platform": "note",
+      "url": "https://note.com/bushido_data888/n/nbecbeccdb5ce",
+      "publishedAt": "2026-11-10",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "THE END OF MANUAL WORK 手入力をなくせ。AI・RPA・自動化で実現する次世代の業務改革 ムリ・ムダ・ムラを徹底排除し、人間が本当に価値を生む仕事に集中するための完全実践ガイド あなたの仕事は、本当に人間がやらなければならない仕事だろうか。 毎朝、メールを確認",
+      "id": "note-note-com-bushido-data888-n-nbecbeccdb5ce-2026-11-10"
+    },
+    {
       "id": "qiita-3dc8a7406b44620ca663",
       "title": "【UiPath】開発時の問題について自分なりに調べてみた",
       "author": "tansk_12",
