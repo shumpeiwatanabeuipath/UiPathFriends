@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08",
-  "searchWindow": "Qiita / note: 2026-05-08 - 2026-11-08; UiPath official: listed pages as of 2026-11-08",
+  "generatedAt": "2026-11-10",
+  "searchWindow": "Qiita / note: 2026-05-10 - 2026-11-10; UiPath official: listed pages as of 2026-11-10",
   "sources": [
     {
       "label": "Qiita",
@@ -34,6 +34,19 @@
         "UiPathStudio"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。初心者 / メモ / UiPath"
+    },
+    {
+      "title": "学びを持ち寄り、つながった夜 - UiPath FUSION Tokyo 2026 コミュニティミートアップ開催レポ｜Shumpei Watanabe",
+      "author": "shumpei_w",
+      "platform": "note",
+      "url": "https://note.com/shumpei_w/n/n4f3c3eec4531",
+      "publishedAt": "2026-11-08",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "みなさん、こんにちは。 渡辺俊平です。(@ShumpeiWatanabe) 2026年11月6日(金)、UiPath FUSION Tokyo の1日の最後に、コミュニティミートアップを開催しました。朝から基調講演やブレイクアウトセッションを聞きっぱなしだったみなさんに、一日の学",
+      "id": "note-note-com-shumpei-w-n-n4f3c3eec4531-2026-11-08"
     },
     {
       "title": "保有銘柄、全部さらします①｜投信3本と米国株の\"持つ理由\"｜「空と資産のフライトログ」",
