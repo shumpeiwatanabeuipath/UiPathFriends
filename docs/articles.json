@@ -996,6 +996,19 @@
       "id": "note-note-com-kessanman-n-n955b81efab21-2026-09-04"
     },
     {
+      "title": "【2026/09/04】プレマーケットの注目材料｜鶏は考える（旧ニュースアーカイブ）",
+      "author": "news_archives",
+      "platform": "note",
+      "url": "https://note.com/news_archives/n/n87f0b6712528",
+      "publishedAt": "2026-09-04",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "・プレマーケット時点の動き 10年債利回り：小幅に下落 2年債利回り：小幅に下落 実質金利：小幅に下落 原油価格：小幅に下落 投資適格社債スプレッド：警戒度据え置き ハイイールド債スプレッド：警戒度据え置き ・注目材料 雇用統計",
+      "id": "note-note-com-news-archives-n-n87f0b6712528-2026-09-04"
+    },
+    {
       "title": "【Podcast】 UiPathの18.6ドルは割安か?決算前に確認したいこと｜外資系の二海さん",
       "author": "aspd",
       "platform": "note",
@@ -1312,6 +1325,19 @@
       "id": "note-note-com-chic-ixora9807-n-n22656a3646bf-2026-08-21"
     },
     {
+      "title": "がん基本法成立20年のヤツ｜○△□堂",
+      "author": "m_kakudo",
+      "platform": "note",
+      "url": "https://note.com/m_kakudo/n/ne9252e152b60",
+      "publishedAt": "2026-08-21",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "社会的ながんリテラシー てマジ大事だよねえ🧐生徒や教師向けのがんについての教育に小中学校やら回っても、 養護教諭 しか受けないて😆 釈迦に説法 じゃねーか⁉️そもそもそれが起きてる時点で、 ターゲットと目的を伝える努力を怠ってないか❓ きちんと事前に伝えてそれなら、 学校運営",
+      "id": "note-note-com-m-kakudo-n-ne9252e152b60-2026-08-21"
+    },
+    {
       "title": "AIとロボット、そして人の協働で自動化に革命を起こす！「UiPath for Coding Agents」と「IXP」がもたらす恩恵とは──UiPathエンジニアに聞く｜UiPath Japan",
       "author": "uipathjapan",
       "platform": "note",
@@ -1349,6 +1375,19 @@
         "IntegrationService"
       ],
       "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / IntegrationService"
+    },
+    {
+      "title": "RPA技術者検定アソシエイトの受験体験記｜kogusan",
+      "author": "kogusan",
+      "platform": "note",
+      "url": "https://note.com/kogusan/n/n8d64694301c1",
+      "publishedAt": "2026-08-15",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "◆ 経緯 ◇ 前提 以下の事情があり、RPAの初心者向け資格を取ることにした。 ・仕事でRPAの監査をすることがあるものの、RPAの知識は概要レベルだったので、もう少し知識を習得したかった。 ・RPAの利用経験なし。 ◇ RPAの資格 日本語で受験できる、RPAの初心者向け資格を",
+      "id": "note-note-com-kogusan-n-n8d64694301c1-2026-08-15"
     },
     {
       "title": "ビジネス変革と新たな価値の創造、エージェンティックオートメーションがもたらす未来──UiPath Japan MVP・矢倉 峻氏に聞く 前編｜UiPath Japan",
@@ -2503,6 +2542,19 @@
       ],
       "summary": "更新日：2026/5/13 エグゼクティブサマリー 2026/5/12は、国内AIエージェントが消費者向け検索支援から、経理・営業・会議・FAQ・開発・インフラ運用まで実務領域へ広がる様子が見えました。楽天GORAは予約導線、TOKIUMやUiPathは人間確認を残した業務代行、",
       "id": "note-note-com-yasuhitoo-n-nf22ee387d1b8-2026-05-13"
+    },
+    {
+      "title": "TanStack npmサプライチェーン侵害の全体像｜ぽちょ研究所",
+      "author": "pochanglab",
+      "platform": "note",
+      "url": "https://note.com/pochanglab/n/naa9ddd245f0d",
+      "publishedAt": "2026-05-13",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "2026年5月11日に発生したTanStack npmサプライチェーン侵害は、単なる「有名パッケージにマルウェアが混入した事件」ではない。より正確には、オープンソースの公開基盤、CI/CD、npmのTrusted Publishing、GitHub Actionsのキャッシュ、S",
+      "id": "note-note-com-pochanglab-n-naa9ddd245f0d-2026-05-13"
     },
     {
       "title": "AIエージェント時代をつくる人材とUiPathコミュニティの理想的な関係 ――UiPath Community MVP 2026 選出の 6人に聞く（後編）",
