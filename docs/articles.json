@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14",
-  "searchWindow": "Qiita / note: 2026-05-14 - 2026-11-14; UiPath official: listed pages as of 2026-11-14",
+  "generatedAt": "2026-11-15",
+  "searchWindow": "Qiita / note: 2026-05-15 - 2026-11-15; UiPath official: listed pages as of 2026-11-15",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,18 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-9bf7cf01ec108401848a",
+      "title": "【UiPath】「Else If」アクティビティは全ての条件を先に評価する",
+      "author": "Davoi",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Davoi/items/9bf7cf01ec108401848a",
+      "publishedAt": "2026-11-15",
+      "tags": [
+        "UiPath"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath"
+    },
     {
       "title": "気になるNEWS｜ボルガレナ｜葛西",
       "author": "hozumi_x",
