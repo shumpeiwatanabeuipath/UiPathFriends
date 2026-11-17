@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15",
-  "searchWindow": "Qiita / note: 2026-05-15 - 2026-11-15; UiPath official: listed pages as of 2026-11-15",
+  "generatedAt": "2026-11-17",
+  "searchWindow": "Qiita / note: 2026-05-17 - 2026-11-17; UiPath official: listed pages as of 2026-11-17",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "Grokで読み、UiPathで転記。その前に何を決める？仕事に取り入れたいAI動画5本｜毎日更新・AI関連YouTubeまとめ【朝】2026年11月17日｜暮らしと心のアプリ工房（デジタル先生【運営公式note】）",
+      "author": "cute_stilt28",
+      "platform": "note",
+      "url": "https://note.com/cute_stilt28/n/n3098137b1da8",
+      "publishedAt": "2026-11-17",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "おはようございます。11月17日、火曜日です。 今日は「将棋の日」です。江戸時代の御城将棋にちなみ、日本将棋連盟が定めた日です。次の一手を考えるように、仕事も小さく試すところから始めてみたいですね。［小話の出典：日本将棋連盟］ 毎日AIの最新ニュースがあふれてて、追いつくのが大変",
+      "id": "note-note-com-cute-stilt28-n-n3098137b1da8-2026-11-17"
+    },
     {
       "id": "qiita-9bf7cf01ec108401848a",
       "title": "【UiPath】「Else If」アクティビティは全ての条件を先に評価する",
