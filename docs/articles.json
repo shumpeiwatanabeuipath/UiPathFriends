@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17",
-  "searchWindow": "Qiita / note: 2026-05-17 - 2026-11-17; UiPath official: listed pages as of 2026-11-17",
+  "generatedAt": "2026-11-18",
+  "searchWindow": "Qiita / note: 2026-05-18 - 2026-11-18; UiPath official: listed pages as of 2026-11-18",
   "sources": [
     {
       "label": "Qiita",
@@ -32,6 +32,32 @@
       ],
       "summary": "おはようございます。11月17日、火曜日です。 今日は「将棋の日」です。江戸時代の御城将棋にちなみ、日本将棋連盟が定めた日です。次の一手を考えるように、仕事も小さく試すところから始めてみたいですね。［小話の出典：日本将棋連盟］ 毎日AIの最新ニュースがあふれてて、追いつくのが大変",
       "id": "note-note-com-cute-stilt28-n-n3098137b1da8-2026-11-17"
+    },
+    {
+      "title": "「AI活用を組織レベルで成果につなげる現実解」副社長・中山が示すAI活用の本質｜UiPath Japan",
+      "author": "uipathjapan",
+      "platform": "note",
+      "url": "https://note.com/uipathjapan/n/n2f712940e904",
+      "publishedAt": "2026-11-17",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "「生成AIやAIエージェントをどう使えば、組織全体で確かな成果につなげられるのか」――多くの企業がこの問いに向き合っています。UiPath日本法人で副社長を務める中山裕之は「カギを握るのは、AIだけに頼るのではなく、正確性を担保できるルールベースの自動化と組み合わせることです」と",
+      "id": "note-note-com-uipathjapan-n-n2f712940e904-2026-11-17"
+    },
+    {
+      "title": "UiPathで帳票を読んだら、すぐ保存していい？人が確認する場所を考える｜毎日更新・AI関連YouTubeまとめ【今日の一本】2026年11月17日｜暮らしと心のアプリ工房（デジタル先生【運営公式note】）",
+      "author": "cute_stilt28",
+      "platform": "note",
+      "url": "https://note.com/cute_stilt28/n/n40b48ab4ae0e",
+      "publishedAt": "2026-11-17",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "こんばんは。11月17日の夜です。 帳票を開いて、必要な項目を別の表へ写す。その作業をAIが手伝ってくれるなら、どこで人が確かめたいでしょうか。今夜は、UiPath Maestro Flowの紹介から、抽出と確定の間に置く確認を考えます。 Kevin Stratvert配信、Ga",
+      "id": "note-note-com-cute-stilt28-n-n40b48ab4ae0e-2026-11-17"
     },
     {
       "id": "qiita-9bf7cf01ec108401848a",
