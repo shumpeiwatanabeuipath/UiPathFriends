@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18",
-  "searchWindow": "Qiita / note: 2026-05-18 - 2026-11-18; UiPath official: listed pages as of 2026-11-18",
+  "generatedAt": "2026-11-20",
+  "searchWindow": "Qiita / note: 2026-05-20 - 2026-11-20; UiPath official: listed pages as of 2026-11-20",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,32 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-3fed7a336bf6b923687b",
+      "title": "【UiPath】新認定資格「Agentic Automation Builder Professional（UiAABP）」日本人第1号になってみた",
+      "author": "frswhbk_ui",
+      "platform": "Qiita",
+      "url": "https://qiita.com/frswhbk_ui/items/3fed7a336bf6b923687b",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "UiPath",
+        "UiAABP"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / UiAABP"
+    },
+    {
+      "title": "RPAはAIエージェントに淘汰されるのか？｜Tuzumi Minami (TM)",
+      "author": "tuzumi",
+      "platform": "note",
+      "url": "https://note.com/tuzumi/n/n30cd5e60b150",
+      "publishedAt": "2026-11-19",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "RPAはAIエージェントに淘汰されるのだろうか。 最近、業務自動化の将来を考えるなかで、この問いについて考えることが増えた。 結論から言えば、RPAという技術そのものが消えるとは思っていない。しかし、RPA専用製品を導入する必然性は、今後かなり薄れていくのではないかと考えている。",
+      "id": "note-note-com-tuzumi-n-n30cd5e60b150-2026-11-19"
+    },
     {
       "title": "Grokで読み、UiPathで転記。その前に何を決める？仕事に取り入れたいAI動画5本｜毎日更新・AI関連YouTubeまとめ【朝】2026年11月17日｜暮らしと心のアプリ工房（デジタル先生【運営公式note】）",
       "author": "cute_stilt28",
