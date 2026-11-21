@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20",
-  "searchWindow": "Qiita / note: 2026-05-20 - 2026-11-20; UiPath official: listed pages as of 2026-11-20",
+  "generatedAt": "2026-11-21",
+  "searchWindow": "Qiita / note: 2026-05-21 - 2026-11-21; UiPath official: listed pages as of 2026-11-21",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,19 @@
     }
   ],
   "articles": [
+    {
+      "title": "UiPathからPADに移行するには・・UiPath運用思考から抜け出さないとPADは運用できない！｜ITフリーランスおやじ（AIプロダクトデザイナー）",
+      "author": "clever_macaw346",
+      "platform": "note",
+      "url": "https://note.com/clever_macaw346/n/n3612b0fab281",
+      "publishedAt": "2026-11-21",
+      "tags": [
+        "UiPath",
+        "note"
+      ],
+      "summary": "はじめに：悪夢のバージョンアップ対応から見えた景色 「今回のOffice 2024移行は、大きな変更はなさそうだから工数は軽微で済みそうだ」 事前調査の段階では、そう判断していました。しかし、いざ実機で蓋を開けてみると、現実は甘くありませんでした。 特にインパクトが大きかったのは",
+      "id": "note-note-com-clever-macaw346-n-n3612b0fab281-2026-11-21"
+    },
     {
       "id": "qiita-3fed7a336bf6b923687b",
       "title": "【UiPath】新認定資格「Agentic Automation Builder Professional（UiAABP）」日本人第1号になってみた",
