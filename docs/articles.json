@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22",
-  "searchWindow": "Qiita / note: 2026-05-22 - 2026-11-22; UiPath official: listed pages as of 2026-11-22",
+  "generatedAt": "2026-11-24",
+  "searchWindow": "Qiita / note: 2026-05-24 - 2026-11-24; UiPath official: listed pages as of 2026-11-24",
   "sources": [
     {
       "label": "Qiita",
@@ -32,6 +32,19 @@
       ],
       "summary": "はじめに：悪夢のバージョンアップ対応から見えた景色 「今回のOffice 2024移行は、大きな変更はなさそうだから工数は軽微で済みそうだ」 事前調査の段階では、そう判断していました。しかし、いざ実機で蓋を開けてみると、現実は甘くありませんでした。 特にインパクトが大きかったのは",
       "id": "note-note-com-clever-macaw346-n-n3612b0fab281-2026-11-21"
+    },
+    {
+      "id": "qiita-d4b52e3f87a47ed0047a",
+      "title": "【UiPath】UI操作を減らして処理を安定化させる",
+      "author": "Davoi",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Davoi/items/d4b52e3f87a47ed0047a",
+      "publishedAt": "2026-11-21",
+      "tags": [
+        "UiPath",
+        "自動化"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / 自動化"
     },
     {
       "id": "qiita-3fed7a336bf6b923687b",
