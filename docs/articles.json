@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26",
-  "searchWindow": "Qiita / note: 2026-05-26 - 2026-11-26; UiPath official: listed pages as of 2026-11-26",
+  "generatedAt": "2026-11-27",
+  "searchWindow": "Qiita / note: 2026-05-27 - 2026-11-27; UiPath official: listed pages as of 2026-11-27",
   "sources": [
     {
       "label": "Qiita",
@@ -20,6 +20,20 @@
     }
   ],
   "articles": [
+    {
+      "id": "qiita-b33b2853d8334f76e256",
+      "title": "【UiPath】テストケースの自動生成",
+      "author": "Kajiita",
+      "platform": "Qiita",
+      "url": "https://qiita.com/Kajiita/items/b33b2853d8334f76e256",
+      "publishedAt": "2026-11-24",
+      "tags": [
+        "UiPath",
+        "Delegate",
+        "テスト"
+      ],
+      "summary": "Qiitaに投稿されたUiPath関連記事。UiPath / Delegate / テスト"
+    },
     {
       "title": "UiPathからPADに移行するには・・UiPath運用思考から抜け出さないとPADは運用できない！｜AIオーケストレーション型経済の提唱者",
       "author": "clever_macaw346",
